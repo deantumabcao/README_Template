@@ -16,7 +16,7 @@
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
   <!-- ![altText](https://img.shields.io/badge/label-message_says_hi-COLORHEX?style=for-the-badge&logo=linuxOrBase64&logoColor=worksForSimpleIcons) -->
   <!-- more at https://github.com/Ileriayo/markdown-badges -->
