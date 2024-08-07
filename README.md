@@ -49,12 +49,12 @@ example
 
 
 
-## 🛣️ Roadmap
+## 🗺️ Roadmap
 example
 
 
 
-## 🙌 Contributing
+## 🤝 Contributing
 example
 
 
@@ -69,7 +69,7 @@ Distributed under the **GPL-3.0 License**. See [LICENSE](https://github.com/dean
 
 
 
-## ⭐ Acknowledgements
+## 🙌 Acknowledgements
 * example
 
 
