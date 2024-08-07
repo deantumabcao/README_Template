@@ -23,7 +23,7 @@
 </div>
 
 
-## 🎞🎬 Trailer
+## 🎬 Trailer
 
 
 ## 📷 Gallery
