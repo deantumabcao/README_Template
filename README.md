@@ -2,16 +2,19 @@
 <div align="center">
   
   <img src="/projectlogo.svg" width="100" alt="Project Name"> <!-- example -->
-  
+
+  <!-- example -->
   # Project Name
 </div>
 
 
 <!-- Quick Info -->
 <div align="center">
-  
-  Brief description and hook
+
+  <!-- example -->
+  Brief description and hook example
   ### Supported On
+  <!-- example -->
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=&logoColor=white)
   ![macOS](https://img.shields.io/badge/macOS-000000?style=&logo=apple&logoColor=F0F0F0)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
@@ -42,17 +45,18 @@ Download and run the installer for your device(s) from [Releases](https://github
 
 
 
-## 📖 User Guide
-example
+## 📖 Quick Guide
+Guide introduction example <!-- example -->
 ### Chapter
-* example
+* example <!-- example -->
 
 
 
 ## 🗺️ Roadmap
-example
-
-
+- [ ] **9/5/2024**: example <!-- example -->
+- [ ] **2025**: example 2 <!-- example -->
+  - [ ] feature
+  - [ ] feature 2
 
 ## 🤝 Contributing
 example
