@@ -30,7 +30,7 @@
 ![altText](https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fphotography-blog%2F19_1011_Upgraded_Combat_Screenshot-1920x1080-b7fb7387b1402312bbbe8fbba6954e1715095059.png) <!-- example -->
 
 ## ▶️ Getting Started
-Download and run the installer for your device(s) from [Releases](https://github.com/deantumabcaofhs/A_Plane/releases <!-- example -->). I recommend downloading the *latest* installer. <!-- example -->
+Download and run the installer for your device(s) from [Releases](https://github.com/deantumabcao/README_Template/releases)<!-- example -->. I recommend downloading the *latest* installer. <!-- example -->
 
 ## 📖 User Guide
 example
