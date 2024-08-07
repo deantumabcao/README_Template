@@ -60,7 +60,7 @@ example
 
 
 ## ⚖️ License
-Distributed under the **GPL-3.0 License**. See [LICENSE](https://github.com/deantumabcaofhs/A_Plane/blob/master/LICENSE) for more information. <!-- example, see choosealicense.com --> 
+Distributed under the **GPL-3.0 License**. See [LICENSE](./LICENSE) for more information. <!-- example, see choosealicense.com --> 
 
 
 
