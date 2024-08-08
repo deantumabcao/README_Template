@@ -1,7 +1,7 @@
 <!-- Logo and Name -->
 <div align="center">
   
-  <img src="/projectlogo.svg" width="100" alt="Project Name"> <!-- example -->
+  <img src="/projectlogo.svg" width=10% alt="Project Name"> <!-- example -->
 
   <!-- example -->
   # Project Name
@@ -32,6 +32,8 @@
 
 
 ## 🎬 Trailer
+https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
+
 
 
 
