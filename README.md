@@ -99,12 +99,12 @@ This contribution guide is modified to make the contribution process easier for 
    * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-branch?view=vs-2022)
    * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/manage-branches.html#create-branch)
 6. Commit your changes to make an updated snapshot of your feature branch with your new changes
-   * `git commit -m 'commit message'` (creates commit with message 'commit message' in currently viewed (checked out) branch)
+   * `git commit -m 'commitMessage'` (creates commit with message 'commitMessage' in currently viewed (checked out) branch)
    * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#commit-your-changes) (You can only commit *and* push as editor is online)
    * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-make-commit?view=vs-2022)
    * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/commit-and-push-changes.html#commit)
 8. Push (upload to remote) your local branch with its new changes to its corresponding branch on your remote forked repo
-   * `git push origin feature/AmazingFeature`
+   * `git push origin branchName` (pushes branch named 'branchName' to remote GitHub repository nicknamed 'origin')
    * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#commit-your-changes) (You can only commit *and* push as editor is online)
    * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-push-remote?view=vs-2022)
    * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/commit-and-push-changes.html#push)
