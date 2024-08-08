@@ -16,11 +16,11 @@
   Brief description and hook
 
   <!-- Supported On -->
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=&logoColor=white)
-  ![macOS](https://img.shields.io/badge/macOS-000000?style=&logo=apple&logoColor=F0F0F0)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white)
+  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=&logoColor=white)](#)
+  [![macOS](https://img.shields.io/badge/macOS-000000?style=&logo=apple&logoColor=F0F0F0)](#)
+  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)](#)
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white)](#)
+  [![iOS](https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white)](#)
   
   <!-- Others -->
   [![GitHub Release](https://img.shields.io/github/v/release/deantumabcaofhs/A_Plane?label=Latest%20Release&color=64b75d&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg==)](https://github.com/deantumabcao/README_Template/releases/latest)
