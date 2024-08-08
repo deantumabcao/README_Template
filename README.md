@@ -36,8 +36,8 @@
 
 
 ## 🖼️ Gallery
-![altText](https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fphotography-blog%2F19_1011_Upgraded_Combat_Screenshot-1920x1080-b7fb7387b1402312bbbe8fbba6954e1715095059.png) <!-- example -->
-
+<img alt="example" src="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fphotography-blog%2F19_1011_Upgraded_Combat_Screenshot-1920x1080-b7fb7387b1402312bbbe8fbba6954e1715095059.png" width=100%> <!-- example -->
+<!-- TEMPLATE: <img alt="example" src=".png" width=100%> -->
 
 
 ## 🛫 Getting Started
