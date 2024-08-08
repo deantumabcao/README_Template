@@ -1,6 +1,6 @@
 <!-- ⭐ Dean Tumabcao's README Template v34 -->
 
-<!-- Project Logo and Name -->
+<!-- LOGO AND NAME -->
 <div align='center'>
   
   <img src='/projectlogo.svg' width=10% alt='Project Name'> <!-- example -->
@@ -14,9 +14,9 @@
 
 </div>
 
-
 <br/>
-<!-- Quick Info -->
+
+<!-- QUICK INFO -->
 <div align='center'>
 
   <!-- Brief description and hook -->
