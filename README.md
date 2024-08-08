@@ -128,7 +128,7 @@ This contribution guide is modified to make the contribution process easier for 
 
 > [!TIP]
 > Create a branch of another branch, if you want to have an untouched copy of that branch for future reference [[branches?](https://docs.github.com/en/get-started/start-your-journey/hello-world#step-2-create-a-branch)]
-> * `git checkout -b branchName` (creates branch named 'branchName' and views it)
+> * `git checkout -b branchName` (creates branch named 'branchName' of the one you're viewing and views it)
 > * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#create-a-new-branch)
 > * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-branch?view=vs-2022)
 > * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/manage-branches.html#create-branch)
@@ -140,7 +140,7 @@ This contribution guide is modified to make the contribution process easier for 
    * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-make-commit?view=vs-2022)
    * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/commit-and-push-changes.html#commit)
 5. Push (upload to remote) your local branch with its new changes to its corresponding branch on your remote forked repo
-   * `git push origin branchName` (pushes branch named 'branchName' to remote GitHub repository nicknamed 'origin')
+   * `git push origin branchName` (pushes branch named 'branchName' to remote GitHub repository defined 'origin')
    * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#commit-your-changes) (You can only commit *and* push as editor is online)
    * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-push-remote?view=vs-2022)
    * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/commit-and-push-changes.html#push)
