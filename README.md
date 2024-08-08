@@ -9,8 +9,13 @@
   ### README Template
 
   <!-- Product Tag -->
-  <img alt='Game tag' height='20' href='#---' src='https://img.shields.io/badge/GAME-7F7F7F?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNC45OTggNWE3IDcgMCAwIDEgLjI0IDEzLjk5NmwtLjI0LjAwNEg5LjAwMmE3IDcgMCAwIDEtLjI0LTEzLjk5Nkw5LjAwMSA1em0wIDEuNUg5LjAwMmE1LjUgNS41IDAgMCAwLS4yMjEgMTAuOTk2bC4yMjEuMDA0aDUuOTk2YTUuNSA1LjUgMCAwIDAgLjIyMS0xMC45OTZ6TTggOWEuNzUuNzUgMCAwIDEgLjc1Ljc1djEuNDk4aDEuNWEuNzUuNzUgMCAwIDEgMCAxLjVoLTEuNXYxLjUwMmEuNzUuNzUgMCAwIDEtMS41IDB2LTEuNTAyaC0xLjVhLjc1Ljc1IDAgMSAxIDAtMS41aDEuNVY5Ljc1QS43NS43NSAwIDAgMSA4IDltNi43NSAzLjVhMS4yNSAxLjI1IDAgMSAxIDAgMi41YTEuMjUgMS4yNSAwIDAgMSAwLTIuNW0yLTMuNWExLjI1IDEuMjUgMCAxIDEgMCAyLjVhMS4yNSAxLjI1IDAgMCAxIDAtMi41Ii8+PC9zdmc+'>
-  <img alt='App tag' height='20' href='#---' src='https://img.shields.io/badge/APP-7F7F7F?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xOC40OTIgMi4zM2wzLjE3OSAzLjE4YTIuMjUgMi4yNSAwIDAgMSAwIDMuMTgybC0yLjU4NCAyLjU4NEEyLjI1IDIuMjUgMCAwIDEgMjEgMTMuNXY1LjI1QTIuMjUgMi4yNSAwIDAgMSAxOC43NSAyMUg1LjI1QTIuMjUgMi4yNSAwIDAgMSAzIDE4Ljc1VjUuMjVBMi4yNSAyLjI1IDAgMCAxIDUuMjUgM2g1LjI1YTIuMjUgMi4yNSAwIDAgMSAyLjIyNSAxLjkxNUwxNS4zMSAyLjMzYTIuMjUgMi4yNSAwIDAgMSAzLjE4MiAwTTQuNSAxOC43NWMwIC40MTUuMzM2Ljc1Ljc1Ljc1aDUuOTk5bC4wMDEtNi43NUg0LjV6bTguMjQ5Ljc1aDYuMDAxYS43NS43NSAwIDAgMCAuNzUtLjc1VjEzLjVhLjc1Ljc1IDAgMCAwLS43NS0uNzVoLTYuMDAxek0xMC41IDQuNUg1LjI1YS43NS43NSAwIDAgMC0uNzUuNzV2Nmg2Ljc1di02YS43NS43NSAwIDAgMC0uNzUtLjc1bTIuMjUgNC44MXYxLjk0aDEuOTR6bTMuNjItNS45MThMMTMuMTkzIDYuNTdhLjc1Ljc1IDAgMCAwIDAgMS4wNjFsMy4xNzkgMy4xNzlhLjc1Ljc1IDAgMCAwIDEuMDYgMGwzLjE4LTMuMTc5YS43NS43NSAwIDAgMCAwLTEuMDZsLTMuMTgtMy4xOGEuNzUuNzUgMCAwIDAtMS4wNiAwIi8+PC9zdmc+'>
+  <a href='#---'>
+    <img alt='Game tag' height='20' src='https://img.shields.io/badge/GAME-7F7F7F?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNC45OTggNWE3IDcgMCAwIDEgLjI0IDEzLjk5NmwtLjI0LjAwNEg5LjAwMmE3IDcgMCAwIDEtLjI0LTEzLjk5Nkw5LjAwMSA1em0wIDEuNUg5LjAwMmE1LjUgNS41IDAgMCAwLS4yMjEgMTAuOTk2bC4yMjEuMDA0aDUuOTk2YTUuNSA1LjUgMCAwIDAgLjIyMS0xMC45OTZ6TTggOWEuNzUuNzUgMCAwIDEgLjc1Ljc1djEuNDk4aDEuNWEuNzUuNzUgMCAwIDEgMCAxLjVoLTEuNXYxLjUwMmEuNzUuNzUgMCAwIDEtMS41IDB2LTEuNTAyaC0xLjVhLjc1Ljc1IDAgMSAxIDAtMS41aDEuNVY5Ljc1QS43NS43NSAwIDAgMSA4IDltNi43NSAzLjVhMS4yNSAxLjI1IDAgMSAxIDAgMi41YTEuMjUgMS4yNSAwIDAgMSAwLTIuNW0yLTMuNWExLjI1IDEuMjUgMCAxIDEgMCAyLjVhMS4yNSAxLjI1IDAgMCAxIDAtMi41Ii8+PC9zdmc+'>
+  </a>
+
+  <a href='#---'>
+    <img alt='App tag' height='20' href='#---' src='https://img.shields.io/badge/APP-7F7F7F?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xOC40OTIgMi4zM2wzLjE3OSAzLjE4YTIuMjUgMi4yNSAwIDAgMSAwIDMuMTgybC0yLjU4NCAyLjU4NEEyLjI1IDIuMjUgMCAwIDEgMjEgMTMuNXY1LjI1QTIuMjUgMi4yNSAwIDAgMSAxOC43NSAyMUg1LjI1QTIuMjUgMi4yNSAwIDAgMSAzIDE4Ljc1VjUuMjVBMi4yNSAyLjI1IDAgMCAxIDUuMjUgM2g1LjI1YTIuMjUgMi4yNSAwIDAgMSAyLjIyNSAxLjkxNUwxNS4zMSAyLjMzYTIuMjUgMi4yNSAwIDAgMSAzLjE4MiAwTTQuNSAxOC43NWMwIC40MTUuMzM2Ljc1Ljc1Ljc1aDUuOTk5bC4wMDEtNi43NUg0LjV6bTguMjQ5Ljc1aDYuMDAxYS43NS43NSAwIDAgMCAuNzUtLjc1VjEzLjVhLjc1Ljc1IDAgMCAwLS43NS0uNzVoLTYuMDAxek0xMC41IDQuNUg1LjI1YS43NS43NSAwIDAgMC0uNzUuNzV2Nmg2Ljc1di02YS43NS43NSAwIDAgMC0uNzUtLjc1bTIuMjUgNC44MXYxLjk0aDEuOTR6bTMuNjItNS45MThMMTMuMTkzIDYuNTdhLjc1Ljc1IDAgMCAwIDAgMS4wNjFsMy4xNzkgMy4xNzlhLjc1Ljc1IDAgMCAwIDEuMDYgMGwzLjE4LTMuMTc5YS43NS43NSAwIDAgMCAwLTEuMDZsLTMuMTgtMy4xOGEuNzUuNzUgMCAwIDAtMS4wNiAwIi8+PC9zdmc+'>
+  </a>
 
 </div>
 
@@ -24,11 +29,25 @@
 
   <!-- Platforms -->
   ## Platforms
-  <img alt='Windows' height='30' href='https://www.microsoft.com/windows/' src='https://img.shields.io/badge/Windows-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yLjc1IDcuMTg5VjIuODY1YzAtLjEwMiAwLS4xMTUuMTE1LS4xMTVoOC42MjJjLjEyOCAwIC4xNCAwIC4xNC4xMjhWMTEuNWMwIC4xMjggMCAuMTI4LS4xNC4xMjhIMi44NjVjLS4xMDIgMC0uMTE1IDAtLjExNS0uMTE2ek03LjE4OSAyMS4yNUgyLjg2NWMtLjEwMiAwLS4xMTUgMC0uMTE1LS4xMTZWMTIuNTljMC0uMTI4IDAtLjEyOC4xMjgtLjEyOGg4LjYzNWMuMTAyIDAgLjExNSAwIC4xMTUuMTE1djguNTdjMCAuMDkgMCAuMTAzLS4xMTYuMTAzek0yMS4yNSA3LjE4OXY0LjMxYzAgLjExNiAwIC4xMTYtLjExNi4xMTZoLTguNTU3Yy0uMTAyIDAtLjEyOCAwLS4xMjgtLjExNVYyLjg2NWMwLS4wOSAwLS4xMDIuMTE1LS4xMDJoOC40OGMuMjA2IDAgLjIwNiAwIC4yMDYuMjA1em0tOC43NjMgOS42NjF2LTQuMjczYzAtLjA5IDAtLjExNS4xMDMtLjA5aDguNjIxYy4wMjYgMCAwIC4wOSAwIC4xNDJ2OC41MThhLjA2LjA2IDAgMCAxLS4wMTcuMDZhLjA2LjA2IDAgMCAxLS4wNi4wMTdIMTIuNTRzLS4wOSAwLS4wNzctLjA5VjE2Ljg1eiIvPjwvc3ZnPg==&logoColor=white'>
-  <img alt='macOS' height='30' href='https://www.apple.com/macos/sonoma/' src='https://img.shields.io/badge/macOS-000000?style=&logo=apple&logoColor=white'>
-  <img alt='Linux' height='30' href='https://www.linux.org/' src='https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black'>
-  <img alt='Android' height='30' href='https://www.android.com/' src='https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white'>
-  <img alt='iOS' height='30' href='https://www.apple.com/ios' src='https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white'>
+  <a href='https://www.microsoft.com/windows/'>
+    <img alt='Windows' height='30' src='https://img.shields.io/badge/Windows-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yLjc1IDcuMTg5VjIuODY1YzAtLjEwMiAwLS4xMTUuMTE1LS4xMTVoOC42MjJjLjEyOCAwIC4xNCAwIC4xNC4xMjhWMTEuNWMwIC4xMjggMCAuMTI4LS4xNC4xMjhIMi44NjVjLS4xMDIgMC0uMTE1IDAtLjExNS0uMTE2ek03LjE4OSAyMS4yNUgyLjg2NWMtLjEwMiAwLS4xMTUgMC0uMTE1LS4xMTZWMTIuNTljMC0uMTI4IDAtLjEyOC4xMjgtLjEyOGg4LjYzNWMuMTAyIDAgLjExNSAwIC4xMTUuMTE1djguNTdjMCAuMDkgMCAuMTAzLS4xMTYuMTAzek0yMS4yNSA3LjE4OXY0LjMxYzAgLjExNiAwIC4xMTYtLjExNi4xMTZoLTguNTU3Yy0uMTAyIDAtLjEyOCAwLS4xMjgtLjExNVYyLjg2NWMwLS4wOSAwLS4xMDIuMTE1LS4xMDJoOC40OGMuMjA2IDAgLjIwNiAwIC4yMDYuMjA1em0tOC43NjMgOS42NjF2LTQuMjczYzAtLjA5IDAtLjExNS4xMDMtLjA5aDguNjIxYy4wMjYgMCAwIC4wOSAwIC4xNDJ2OC41MThhLjA2LjA2IDAgMCAxLS4wMTcuMDZhLjA2LjA2IDAgMCAxLS4wNi4wMTdIMTIuNTRzLS4wOSAwLS4wNzctLjA5VjE2Ljg1eiIvPjwvc3ZnPg==&logoColor=white'>
+  </a>
+
+  <a href='https://www.apple.com/macos/sonoma/'>
+    <img alt='macOS' height='30' src='https://img.shields.io/badge/macOS-000000?style=&logo=apple&logoColor=white'>
+  </a>
+
+  <a href='https://www.linux.org/'>
+    <img alt='Linux' height='30' src='https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black'>
+  </a>
+
+  <a href='https://www.android.com/'>
+    <img alt='Android' height='30' src='https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white'>
+  </a>
+
+  <a href='https://www.apple.com/ios'>
+    <img alt='iOS' height='30' src='https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white'>
+  </a>
   
   <!-- Others -->
   ##
