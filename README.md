@@ -21,6 +21,7 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white)
+  
   <!-- Licensing -->
   [![GitHub License](https://img.shields.io/github/license/deantumabcao/README_Template?label=License)](/LICENSE)
   <!-- 👆change the link to be your repository see choosealicense.com -->
@@ -35,10 +36,6 @@
 
 ## 🖼️ Gallery
 ![altText](https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fphotography-blog%2F19_1011_Upgraded_Combat_Screenshot-1920x1080-b7fb7387b1402312bbbe8fbba6954e1715095059.png) <!-- example -->
-
-
-
-## 🌐 [Website](https://sites.google.com/view/deantumabcao/home)
 
 
 
@@ -59,6 +56,10 @@ Guide introduction example <!-- example -->
 - [ ] **2025**: example 2 <!-- example -->
   - [ ] feature
   - [ ] feature 2
+
+
+
+## 🌐 [Website](https://sites.google.com/view/deantumabcao/home)
 
 
 
