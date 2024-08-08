@@ -13,16 +13,31 @@
 
   <!-- example -->
   Brief description and hook example
-  ### Supported On
-  <!-- example -->
+
+<!-- Supported On -->
+  <table>
+    <td align="center">
+      
+  ### ✅ Supported On
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=&logoColor=white)
   ![macOS](https://img.shields.io/badge/macOS-000000?style=&logo=apple&logoColor=F0F0F0)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white)
+    </td>
+  </table>
 
+<!-- Licensing -->
+ <table>
+   <td>
+     
+  ### ⚖️ Licensed with [![](https://img.shields.io/github/license/deantumabcaofhs/A_Plane?label=)](/LICENSE)
+  <!-- change the link to be your repository see choosealicense.com -->
   <!-- ![altText](https://img.shields.io/badge/label-message_says_hi-COLORHEX?style=&logo=linuxOrBase64&logoColor=worksForSimpleIcons) -->
   <!-- more at https://github.com/Ileriayo/markdown-badges -->
+   </td>
+ </table>
+  
 </div>
 
 
@@ -41,7 +56,7 @@
 
 
 ## 🛫 Getting Started
-Download and run the installer for your device(s) from [Releases](https://github.com/deantumabcao/README_Template/releases)<!-- example -->. I recommend downloading the *latest* installer. <!-- example -->
+Download and run the installer for your specific operating system from [Releases](https://github.com/deantumabcao/README_Template/releases)<!-- example -->. I recommend downloading the **latest** installer to access the latest features. <!-- example -->
 
 
 
@@ -58,14 +73,6 @@ Guide introduction example <!-- example -->
   - [ ] feature
   - [ ] feature 2
 
-## 🤝 Contributing
-example
-
-
-
-## ⚖️ License
-Distributed under the **GPL-3.0 License**. See [LICENSE](./LICENSE) for more information. <!-- example, see choosealicense.com --> 
-
 
 
 ## 📞 Contact
@@ -75,6 +82,36 @@ Distributed under the **GPL-3.0 License**. See [LICENSE](./LICENSE) for more inf
 
 ## 🙌 Acknowledgements
 * example
+* This README is inspired from [@othneildrew](https://github.com/othneildrew)'s [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+
+
+## 🤝 Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+This contribution guide is modified to make the contribution process easier for users.
+1. Have a [GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) [[GitHub?](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)]
+2. [Fork](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#forking-a-repository) this remote repo (repository) to get your own editable remote copy of it [[forking?](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#about-forking)]
+3. [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) your forked repo online OR [Clone](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#cloning-a-fork) (make local copy) your forked repository to your device and edit it on a local code editor (Visual Studio, IntelliJ IDEA, etc.)
+4. Create your Branch of any original branch, if you want to have an untouched copy of the Main Branch for local reference [[branches?](https://docs.github.com/en/get-started/start-your-journey/hello-world#step-2-create-a-branch)]
+   * `git checkout -b branchName` (creates branch named 'branchName' and views it)
+   * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#create-a-new-branch)
+   * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-branch?view=vs-2022)
+   * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/manage-branches.html#create-branch)
+6. Commit your changes to make an updated snapshot of your feature branch with your new changes
+   * `git commit -m 'commit message'` (creates commit with message 'commit message' in currently viewed (checked out) branch)
+   * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#commit-your-changes) (You can only commit *and* push as editor is online)
+   * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-make-commit?view=vs-2022)
+   * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/commit-and-push-changes.html#commit)
+8. Push (upload to remote) your local branch with its new changes to its corresponding branch on your remote forked repo
+   * `git push origin feature/AmazingFeature`
+   * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#commit-your-changes) (You can only commit *and* push as editor is online)
+   * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-push-remote?view=vs-2022)
+   * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/commit-and-push-changes.html#push)
+10. Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) (multi-platform guide) to request a merge of your Feature Branch and the original project repo's Main Branch [[pull request and merge?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#about-pull-requests)]
+
+For more information, see https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project.
 
 
 
