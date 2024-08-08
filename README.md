@@ -14,7 +14,7 @@
 
 </div>
 
-<br/>
+
 
 <!-- QUICK INFO -->
 <div align='center'>
