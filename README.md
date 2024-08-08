@@ -3,7 +3,7 @@
 <!-- LOGO AND NAME -->
 <div align='center'>
   
-  <img src='/projectlogo.svg' width=10% alt='Project Name'> <!-- example -->
+  <img src='/projectlogo.svg' width=15% alt='Project Name'> <!-- example -->
 
   <!-- Project Name -->
   ### README Template
