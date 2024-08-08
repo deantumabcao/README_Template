@@ -32,7 +32,7 @@
  <table>
    <td>
      
-  ### ⚖️ Licensed with [![License](https://img.shields.io/github/license/deantumabcao/README_Template?label=)](/LICENSE)
+  ### ⚖️ Licensed with [![License](?label=)](/LICENSE)
   <!-- 👆change the link to be your repository see choosealicense.com -->
    </td>
  </table>
@@ -94,7 +94,7 @@ Guide introduction example <!-- example -->
 
 
 ## 🤝 Contributing
-[![License](https://img.shields.io/github/license/deantumabcao/README_Template?label=License)](/LICENSE)  
+[![License](?label=License)](/LICENSE)  
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
