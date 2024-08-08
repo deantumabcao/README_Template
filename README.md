@@ -59,6 +59,17 @@ https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
 
 
 
+# 🌟 Features
+<a href='#---'><img alt='text' height='25' src='https://img.shields.io/badge/Singleplayer-7F7F7F?style=&logo=&logoColor=white'></a>
+<a href='#---'><img alt='text' height='25' src='https://img.shields.io/badge/Action-7F7F7F?style=&logo=&logoColor=white'></a>
+<a href='#---'><img alt='text' height='25' src='https://img.shields.io/badge/Simulation-7F7F7F?style=&logo=&logoColor=white'></a>
+
+* Lorem ipsum odor amet, consectetuer adipiscing elit. Ornare vitae lacinia volutpat volutpat augue euismod.
+* Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida porttitor nullam ornare blandit at duis lacinia. Conubia magnis odio lobortis a nisi tristique.
+* Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare enim bibendum vivamus conubia leo. Penatibus himenaeos fusce auctor ad hendrerit metus tempus lectus. Semper auctor bibendum cursus urna hac pretium.
+
+
+
 # 🗺️ Roadmap
 - [x] **9/5/2024**: example <!-- example -->
 - [ ] **2025**: example 2 <!-- example -->
@@ -89,9 +100,9 @@ Something important goes here.
 
 
 # 📖 User Guide
-Guide introduction example <!-- example -->
+Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare enim bibendum vivamus conubia leo. Penatibus himenaeos fusce auctor ad hendrerit metus tempus lectus. Semper auctor bibendum cursus urna hac pretium. <!-- example -->
 ### Chapter
-* example <!-- example -->
+* Lorem ipsum odor amet, consectetuer adipiscing elit. Eget ipsum mattis dictum curae hendrerit imperdiet. <!-- example -->
 
 
 
@@ -155,5 +166,6 @@ For more information, see https://docs.github.com/en/get-started/exploring-proje
 
 ## [🔝 Back To Top](#readme-top)
 
-<!-- SHIELDS.IO BADGE FORMAT: [![altText](https://img.shields.io/badge/label-message-000000?style=&logo=apple)](#---) -->
-<!-- more at https://github.com/Ileriayo/markdown-badges -->
+<!-- SHIELDS.IO BADGE FORMAT: <a href='#---'><img alt='text' height='25' src='https://img.shields.io/badge/message-000000?style=&logo=&logoColor=white'></a> -->
+<!-- More info at https://shields.io/badges -->
+<!-- Premade Badges at https://github.com/Ileriayo/markdown-badges -->
