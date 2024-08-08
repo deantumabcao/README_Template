@@ -22,7 +22,8 @@
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white)
   
-  <!-- Licensing -->
+  <!-- Others -->
+  [![GitHub Release](https://img.shields.io/github/v/release/deantumabcaofhs/A_Plane?label=LatestRelease&color=64b75d&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg==)](https://github.com/deantumabcao/README_Template/releases/latest)
   [![GitHub License](https://img.shields.io/github/license/deantumabcao/README_Template?label=License)](/LICENSE)
   <!-- 👆change the link to be your repository see choosealicense.com -->
   
