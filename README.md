@@ -12,30 +12,18 @@
 <!-- Quick Info -->
 <div align="center">
 
-  <!-- example -->
-  Brief description and hook example
+  <!-- Brief description and hook -->
+  Brief description and hook
 
   <!-- Supported On -->
-  <table>
-    <td align="center">
-      
-  ### ✅ Supported On
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=&logoColor=white)
   ![macOS](https://img.shields.io/badge/macOS-000000?style=&logo=apple&logoColor=F0F0F0)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white)
-    </td>
-  </table>
-
   <!-- Licensing -->
- <table>
-   <td>
-     
-  ### ⚖️ Licensed with [![License](?label=)](/LICENSE)
+  [![GitHub License](https://img.shields.io/github/license/deantumabcao/README_Template?label=License)](/LICENSE)
   <!-- 👆change the link to be your repository see choosealicense.com -->
-   </td>
- </table>
   
 </div>
 
@@ -94,7 +82,7 @@ Guide introduction example <!-- example -->
 
 
 ## 🤝 Contributing
-[![License](?label=License)](/LICENSE)  
+[![GitHub License](https://img.shields.io/github/license/deantumabcao/README_Template?label=License)](/LICENSE)  
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
