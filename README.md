@@ -44,12 +44,12 @@
 
 
   
-## 🎬 Trailer
+# 🎬 Trailer
 https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
 
 
 
-## 🖼️ Gallery
+# 🖼️ Gallery
 <img alt='example' src='https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fphotography-blog%2F19_1011_Upgraded_Combat_Screenshot-1920x1080-b7fb7387b1402312bbbe8fbba6954e1715095059.png' width=49%> <!-- example -->
 <img alt='example' src='https://d.newsweek.com/en/full/1536368/fortnite-chapter-2-season-1-battle-pass.png?w=1200&f=8b3c02f34a6fac95255526d2657a6f7a' width=49%> <!-- example -->
 <img alt='example' src='https://cdn2.unrealengine.com/fortnite-falcon-scout-gameplay-2-1920x1080-65f8bb6b4dfd.jpg' width=49%> <!-- example -->
@@ -58,12 +58,12 @@ https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
 
 
 
-## ⚠️ Important
+# ⚠️ Important
 Something important goes here.
 
 
 
-## 🛫 Getting Started
+# 🛫 Getting Started
 <p> Download and run the installer for your specific operating system from <a href='https://github.com/deantumabcao/README_Template/releases'><img alt='Releases' height='25' src='https://img.shields.io/badge/Releases-64b75d?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg=='></a>. </p>
 
 > [!TIP]
@@ -71,18 +71,18 @@ Something important goes here.
 
 
 
-## <a href='https://github.com/deantumabcao/README_Template/releases'><img alt='Downloads' height='35' src='https://img.shields.io/badge/Downloads-64b75d?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg=='></a>
+# <a href='https://github.com/deantumabcao/README_Template/releases'><img alt='Downloads' height='35' src='https://img.shields.io/badge/Downloads-64b75d?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg=='></a>
 
 
 
-## 📖 Quick Guide
+# 📖 Quick Guide
 Guide introduction example <!-- example -->
 ### Chapter
 * example <!-- example -->
 
 
 
-## 🗺️ Roadmap
+# 🗺️ Roadmap
 - [x] **9/5/2024**: example <!-- example -->
 - [ ] **2025**: example 2 <!-- example -->
   - [ ] feature
@@ -90,22 +90,22 @@ Guide introduction example <!-- example -->
 
 
 
-## 🌐 [Website](https://sites.google.com/view/deantumabcao/home)
+# 🌐 [Website](https://sites.google.com/view/deantumabcao/home)
 
 
 
-## 📞 Contact
+# 📞 Contact
 * example
 
 
 
-## 🙌 Acknowledgements
+# 🙌 Acknowledgements
 * [Dean Tumabcao](https://github.com/deantumabcao)
 * This README is inspired from [@othneildrew](https://github.com/othneildrew)'s [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 
 
-## 🛠️ Made with
+# 🛠️ Made with
 <a href='https://www.java.com'><img alt='Java' height='25' src='https://img.shields.io/badge/Java-%23ED8B00.svg?style=&logo=openjdk&logoColor=white'></a>
 <a href='https://www.jetbrains.com/idea/'><img alt='IntelliJ IDEA' height='25' src='https://img.shields.io/badge/IntelliJIDEA-2b2d30.svg?style=&logo=intellij-idea&logoColor=white'></a>
 <a href='https://www.microsoft.com/windows/windows-11'><img alt='Windows 11' height='25' src='https://img.shields.io/badge/Windows%2011-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yLjc1IDcuMTg5VjIuODY1YzAtLjEwMiAwLS4xMTUuMTE1LS4xMTVoOC42MjJjLjEyOCAwIC4xNCAwIC4xNC4xMjhWMTEuNWMwIC4xMjggMCAuMTI4LS4xNC4xMjhIMi44NjVjLS4xMDIgMC0uMTE1IDAtLjExNS0uMTE2ek03LjE4OSAyMS4yNUgyLjg2NWMtLjEwMiAwLS4xMTUgMC0uMTE1LS4xMTZWMTIuNTljMC0uMTI4IDAtLjEyOC4xMjgtLjEyOGg4LjYzNWMuMTAyIDAgLjExNSAwIC4xMTUuMTE1djguNTdjMCAuMDkgMCAuMTAzLS4xMTYuMTAzek0yMS4yNSA3LjE4OXY0LjMxYzAgLjExNiAwIC4xMTYtLjExNi4xMTZoLTguNTU3Yy0uMTAyIDAtLjEyOCAwLS4xMjgtLjExNVYyLjg2NWMwLS4wOSAwLS4xMDIuMTE1LS4xMDJoOC40OGMuMjA2IDAgLjIwNiAwIC4yMDYuMjA1em0tOC43NjMgOS42NjF2LTQuMjczYzAtLjA5IDAtLjExNS4xMDMtLjA5aDguNjIxYy4wMjYgMCAwIC4wOSAwIC4xNDJ2OC41MThhLjA2LjA2IDAgMCAxLS4wMTcuMDZhLjA2LjA2IDAgMCAxLS4wNi4wMTdIMTIuNTRzLS4wOSAwLS4wNzctLjA5VjE2Ljg1eiIvPjwvc3ZnPg==&logoColor=white'></a>
@@ -113,7 +113,7 @@ Guide introduction example <!-- example -->
 
 
 
-## 🤝 Contributing
+# 🤝 Contributing
 <a href='/LICENSE'><img alt='License' height='25' src='https://img.shields.io/github/license/deantumabcao/README_Template?label=License&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDMuNzVBLjc1Ljc1IDAgMCAxIDMuNzUgM2gxNi41YS43NS43NSAwIDAgMSAwIDEuNWgtMS4wNDJsMi43MzcgNi43MTdBLjguOCAwIDAgMSAyMiAxMS41YTMuNSAzLjUgMCAxIDEtNyAwYS44LjggMCAwIDEgLjA1NS0uMjgzTDE3Ljc5MiA0LjVIMTIuNzV2MTJoNGEyLjI1IDIuMjUgMCAwIDEgMCA0LjVINy4yNTNhMi4yNSAyLjI1IDAgMCAxIDAtNC41aDMuOTk3di0xMkg2LjIwOGwyLjczNyA2LjcxN0EuOC44IDAgMCAxIDkgMTEuNWEzLjUgMy41IDAgMSAxLTcgMGEuOC44IDAgMCAxIC4wNTUtLjI4M0w0Ljc5MiA0LjVIMy43NUEuNzUuNzUgMCAwIDEgMyAzLjc1bTMuNTAzIDE1YzAgLjQxNC4zMzYuNzUuNzUuNzVoOS40OTdhLjc1Ljc1IDAgMCAwIDAtMS41SDcuMjUzYS43NS43NSAwIDAgMC0uNzUuNzVtLjg1Mi02LjVoLTMuNzFhMiAyIDAgMCAwIDMuNzEgMG0tLjIyLTEuNUw1LjUgNi43MzhMMy44NjUgMTAuNzV6TTE4LjUgMTMuNWEyIDIgMCAwIDAgMS44NTUtMS4yNWgtMy43MUEyIDIgMCAwIDAgMTguNSAxMy41bS0xLjYzNS0yLjc1aDMuMjdMMTguNSA2LjczOHoiLz48L3N2Zz4='></a>
 <a href='https://github.com/deantumabcao/README_Template/graphs/contributors'><img alt='Contributors' height='25' src='https://img.shields.io/github/contributors-anon/deantumabcao/README_Template?label=Contributors&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMi4yNCAyLjk2NWEuNzUuNzUgMCAwIDAtLjU4LjI3NmwtLjA1OC4wNDNhNi4zIDYuMyAwIDAgMC02LjI2NiAxLjU1M2E2LjIgNi4yIDAgMCAwLTEuNzM2IDUuNTFsLS4wMTUuMDE1bC0uOTU4Ljk1MWEyLjExIDIuMTEgMCAwIDAgMCAyLjk5NWEyLjE0IDIuMTQgMCAwIDAgMS43OTMuNjAxYTIuMTMgMi4xMyAwIDAgMCAxLjg4MyAxLjU1OUEyLjEzIDIuMTMgMCAwIDAgOC4zMiAxOC40MWMuMDI2LjUwNi4yMzMgMS4wMDQuNjIyIDEuMzljLjc2Ljc1NiAxLjk1Mi44MjEgMi43ODcuMTk3bC4zODcuMzg0YTIuMTUgMi4xNSAwIDAgMCAzLjAyOCAwYy4zNy0uMzY5LjU3Ny0uODM4LjYyLTEuMzE4YTIuMTMgMi4xMyAwIDAgMCAxLjk0LTEuOTMyYTIuMTMgMi4xMyAwIDAgMCAxLjg3LTEuNjA0YTIuMTQgMi4xNCAwIDAgMCAxLjc2LS42MDZhMi4xMSAyLjExIDAgMCAwIDAtMi45OTRsLS44MzMtLjgyOWwuMTcyLS42NjZhNS45NSA1Ljk1IDAgMCAwLS41MjUtNC4zMDNhNi4wMiA2LjAyIDAgMCAwLTUuMzAzLTMuMTZoLTEuNjA3YTQgNCAwIDAgMC0uMjA2LS4wMDR6bTIuOTI1IDQuOTQ1bDMuNDY0IDMuNDQxbC4wMDMuMDA1bC4wMTQuMDEzbDEuNjI1IDEuNjE1YS42Mi42MiAwIDAgMSAwIC44OGEuNjMuNjMgMCAwIDEtLjg4NiAwbC0xLjYyNS0xLjYxNWEuNzU2Ljc1NiAwIDAgMC0xLjA2NCAwbC0uMDE2LjAxN2EuNzQ0Ljc0NCAwIDAgMCAwIDEuMDU3bDEuMjY2IDEuMjU4YS42Mi42MiAwIDAgMSAwIC44ODJhLjYzLjYzIDAgMCAxLS44MTkuMDU4YS43NTYuNzU2IDAgMCAwLS45ODcuMDcxYS43NDQuNzQ0IDAgMCAwLS4wNjIuOTgyYS42Mi42MiAwIDAgMS0uMDU1LjgxOWEuNjMuNjMgMCAwIDEtLjgzLjA1YS43NTYuNzU2IDAgMCAwLS45OTUuMDU3YS43NDQuNzQ0IDAgMCAwLS4wNjQuOTg5YS42My42MyAwIDAgMS0uMDU0LjgzNGEuNjQuNjQgMCAwIDEtLjkgMGwtLjM3Mi0uMzY5bC4xMDUtLjEwNWEyLjExIDIuMTEgMCAwIDAgMC0yLjk5NGEyLjEzIDIuMTMgMCAwIDAtMS40LS42MThhMi4xMyAyLjEzIDAgMCAwLTEuOTU0LTIuMDA0YTIuMSAyLjEgMCAwIDAtLjYxNy0xLjMyNGEyLjE0IDIuMTQgMCAwIDAtMS43OTMtLjYwMWEyLjEzIDIuMTMgMCAwIDAtMi4xMTgtMS41NjVBNC43IDQuNyAwIDAgMSA2LjQgNS44OTNhNC43NyA0Ljc3IDAgMCAxIDMuNTgxLTEuMzhMOC40ODQgNS42NDZhMi4zMTQgMi4zMTQgMCAwIDAtLjQ0IDMuMjUzYTIuMzMzIDIuMzMzIDAgMCAwIDMuMjU4LjQ0MWwxLjg4OS0xLjQzMXpNOS4zODkgNi44NDNsMy4xMzktMi4zNzhoLjUwNGEzIDMgMCAwIDEgLjE4Ny4wMDVoMS42MjZhNC41MiA0LjUyIDAgMCAxIDMuOTgyIDIuMzdjLjQ5NS45Mi42NSAxLjk3OC40NDQgMi45OTVMMTYuMDYgNi42MzlhLjc1Ljc1IDAgMCAwLS41MzktLjIyOUgxMi45NGEuNzUuNzUgMCAwIDAtLjQ1My4xNTJsLTIuMDkgMS41ODNhLjgzMy44MzMgMCAwIDEtMS4xNjItLjE1N2EuODE0LjgxNCAwIDAgMSAuMTU1LTEuMTQ1bS0zLjM1NCA3Ljk1NGEuNjIuNjIgMCAwIDEgMC0uODhsLjk1Ny0uOTVhLjYzLjYzIDAgMCAxIC44ODYgMGEuNjIuNjIgMCAwIDEgLjAwOC44NzFsLS4wMDguMDA5bC0uOTU3Ljk1bC0uMDA5LjAwOWEuNjMuNjMgMCAwIDEtLjg3Ny0uMDA4bS0uNDkxLTMuMzY4YS42Mi42MiAwIDAgMS0uMDEuODdsLS45NTcuOTUyYS42My42MyAwIDAgMS0uODg2IDBhLjYyLjYyIDAgMCAxIDAtLjg4bC45NTgtLjk1MWEuNjMuNjMgMCAwIDEgLjg4NiAwem01LjM0OCA3LjMxNGEuNjMuNjMgMCAwIDEtLjg4NiAwYS42Mi42MiAwIDAgMSAwLS44OGwuOTU3LS45NTFhLjYzLjYzIDAgMCAxIC44ODYgMGEuNjIuNjIgMCAwIDEgMCAuODh6bS0yLjAyMS0yLjAwOGEuNjMuNjMgMCAwIDEtLjg4NiAwYS42Mi42MiAwIDAgMS0uMDA5LS44NzJsLjAwOS0uMDA4bC45NTctLjk1MWwuMDA4LS4wMDlhLjYzLjYzIDAgMCAxIC44NzguMDA5YS42Mi42MiAwIDAgMSAwIC44OHoiLz48L3N2Zz4='></a>
 
