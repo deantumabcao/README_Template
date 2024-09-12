@@ -49,6 +49,10 @@
 <br/>
 
 
+
+Table of Contents
+
+
   
 # 🎬 Trailer
 https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
@@ -123,6 +127,10 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare
 # 🙌 Acknowledgements
 * [Dean Tumabcao](https://github.com/deantumabcao)
 * This README is inspired from [@othneildrew](https://github.com/othneildrew)'s [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+
+
+# ⚡ Support
 
 
 
