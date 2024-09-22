@@ -8,7 +8,7 @@
   <img src='/ReadMeTemplateBanner.svg' width=60% alt='Project Name'> <!-- Banner inkscape twitter header template -->
 
   <!-- Project Name -->
-  ### README Template
+  # README Template
 
   <!-- Tags -->
   <a href='#---'><img alt='Game tag' height='20' src='https://img.shields.io/badge/GAME-7F7F7F?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNC45OTggNWE3IDcgMCAwIDEgLjI0IDEzLjk5NmwtLjI0LjAwNEg5LjAwMmE3IDcgMCAwIDEtLjI0LTEzLjk5Nkw5LjAwMSA1em0wIDEuNUg5LjAwMmE1LjUgNS41IDAgMCAwLS4yMjEgMTAuOTk2bC4yMjEuMDA0aDUuOTk2YTUuNSA1LjUgMCAwIDAgLjIyMS0xMC45OTZ6TTggOWEuNzUuNzUgMCAwIDEgLjc1Ljc1djEuNDk4aDEuNWEuNzUuNzUgMCAwIDEgMCAxLjVoLTEuNXYxLjUwMmEuNzUuNzUgMCAwIDEtMS41IDB2LTEuNTAyaC0xLjVhLjc1Ljc1IDAgMSAxIDAtMS41aDEuNVY5Ljc1QS43NS43NSAwIDAgMSA4IDltNi43NSAzLjVhMS4yNSAxLjI1IDAgMSAxIDAgMi41YTEuMjUgMS4yNSAwIDAgMSAwLTIuNW0yLTMuNWExLjI1IDEuMjUgMCAxIDEgMCAyLjVhMS4yNSAxLjI1IDAgMCAxIDAtMi41Ii8+PC9zdmc+'></a>
@@ -35,9 +35,10 @@
   <a href='https://www.linux.org/'><img alt='Linux' height='30' src='https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black'></a>
   <a href='https://www.android.com/'><img alt='Android' height='30' src='https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white'></a>
   <a href='https://www.apple.com/ios'><img alt='iOS' height='30' src='https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white'></a>
-  
+
   <!-- Others -->
   ##
+  <a href='#gettingstarted'><img alt='Get Started' height='40' src='https://img.shields.io/badge/Get%20Started-64b75d?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTMuMDU3IDcuNDNhMi41IDIuNSAwIDEgMSAzLjUzNiAzLjUzNmEyLjUgMi41IDAgMCAxLTMuNTM2LTMuNTM1bTIuNDc1IDEuMDYxYTEgMSAwIDEgMC0xLjQxNCAxLjQxNWExIDEgMCAwIDAgMS40MTQtMS40MTVtNS45NzctNC4xNjlhMi43NSAyLjc1IDAgMCAwLTEuODExLTEuODFsLS42NjMtLjIwNmE2Ljc1IDYuNzUgMCAwIDAtNi43NzMgMS42NzRsLS45OTYuOTk2YTMuNSAzLjUgMCAwIDAtNC41Ny4zMjdMNS40NTUgNi41NDVhLjc1Ljc1IDAgMCAwIDAgMS4wNmwxLjU5MSAxLjU5MmwtLjE4LjE4YTEuNzUgMS43NSAwIDAgMCAwIDIuNDc0bC40OTYuNDk2bC0xLjM5Ni43OTZhLjc1Ljc1IDAgMCAwLS4xNTggMS4xODFsMy44ODkgMy44OWEuNzUuNzUgMCAwIDAgMS4xODEtLjE1OGwuNzk4LTEuMzk1bC40OTcuNDk3YTEuNzUgMS43NSAwIDAgMCAyLjQ3NSAwbC4xNzctLjE3N2wxLjU5IDEuNTlhLjc1Ljc1IDAgMCAwIDEuMDYgMGwxLjI0Mi0xLjI0M2EzLjUgMy41IDAgMCAwIC4zMjgtNC41NjdsLjk5OC0uOTk4YTYuNzUgNi43NSAwIDAgMCAxLjY3My02Ljc3N3ptLTIuMjU2LS4zNzhjLjM5My4xMjIuNzAxLjQzLjgyMy44MjNsLjIwNy42NjVhNS4yNSA1LjI1IDAgMCAxLTEuMzAyIDUuMjdsLTUuMzk1IDUuMzk1YS4yNS4yNSAwIDAgMS0uMzUzIDBsLTUuMzA3LTUuMzA2YS4yNS4yNSAwIDAgMSAwLS4zNTRsNS4zOTctNS4zOTZhNS4yNSA1LjI1IDAgMCAxIDUuMjY4LTEuMzAyem0tMS4yODkgOS44OTdjLjQ1My43NjYuMzUgMS43NjktLjMwOCAyLjQyN2wtLjcxMi43MTJsLTEuMDYtMS4wNnpNNy43NTggNi4zNjNhMiAyIDAgMCAxIDIuNDI4LS4zMDdsLTIuMDggMi4wOGwtMS4wNi0xLjA2em0yLjgxOCA5LjE5OWwtLjUxNC44OTdsLTIuNS0yLjVsLjg5OC0uNTEzek02LjY5IDE4LjM5NGEuNzUuNzUgMCAwIDAtMS4wNi0xLjA2bC0yLjQ3NiAyLjQ3NGEuNzUuNzUgMCAwIDAgMS4wNjEgMS4wNjF6TTQuNzQ1IDE1LjM5YS43NS43NSAwIDAgMSAwIDEuMDZsLTEuMDYgMS4wNjFhLjc1Ljc1IDAgMCAxLTEuMDYxLTEuMDZsMS4wNi0xLjA2MWEuNzUuNzUgMCAwIDEgMS4wNjEgMG0zLjg4NyA0Ljk1MmEuNzUuNzUgMCAxIDAtMS4wNi0xLjA2TDYuNTEzIDIwLjM0YS43NS43NSAwIDAgMCAxLjA2IDEuMDZ6Ii8+PC9zdmc+'></a>
   <a href='https://github.com/deantumabcao/README_Template/releases/latest'><img alt='Latest Release' height='40' src='https://img.shields.io/github/v/release/deantumabcaofhs/A_Plane?label=Latest%20Release&color=64b75d&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg=='></a>
   <a href='/LICENSE'><img alt='License' height='40' src='https://img.shields.io/github/license/deantumabcao/README_Template?label=License&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDMuNzVBLjc1Ljc1IDAgMCAxIDMuNzUgM2gxNi41YS43NS43NSAwIDAgMSAwIDEuNWgtMS4wNDJsMi43MzcgNi43MTdBLjguOCAwIDAgMSAyMiAxMS41YTMuNSAzLjUgMCAxIDEtNyAwYS44LjggMCAwIDEgLjA1NS0uMjgzTDE3Ljc5MiA0LjVIMTIuNzV2MTJoNGEyLjI1IDIuMjUgMCAwIDEgMCA0LjVINy4yNTNhMi4yNSAyLjI1IDAgMCAxIDAtNC41aDMuOTk3di0xMkg2LjIwOGwyLjczNyA2LjcxN0EuOC44IDAgMCAxIDkgMTEuNWEzLjUgMy41IDAgMSAxLTcgMGEuOC44IDAgMCAxIC4wNTUtLjI4M0w0Ljc5MiA0LjVIMy43NUEuNzUuNzUgMCAwIDEgMyAzLjc1bTMuNTAzIDE1YzAgLjQxNC4zMzYuNzUuNzUuNzVoOS40OTdhLjc1Ljc1IDAgMCAwIDAtMS41SDcuMjUzYS43NS43NSAwIDAgMC0uNzUuNzVtLjg1Mi02LjVoLTMuNzFhMiAyIDAgMCAwIDMuNzEgMG0tLjIyLTEuNUw1LjUgNi43MzhMMy44NjUgMTAuNzV6TTE4LjUgMTMuNWEyIDIgMCAwIDAgMS44NTUtMS4yNWgtMy43MUEyIDIgMCAwIDAgMTguNSAxMy41bS0xLjYzNS0yLjc1aDMuMjdMMTguNSA2LjczOHoiLz48L3N2Zz4='></a>
   <!-- 👆change the link to be your repository see choosealicense.com -->
@@ -52,39 +53,56 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary><h1>📑Table of Contents</h1></summary>
+  <summary><h2>📑Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href='#news'>News</a>
+      <a href='#news'>📰 News</a>
     </li>
     <li>
-      <a href='#trailer'>Trailer</a>
+      <a href='#trailer'>🎬 Trailer</a>
     </li>
     <li>
-      <a href='#Gallery'>Gallery</a>
+      <a href='#gallery'>🖼️ Gallery</a>
     </li>
     <li>
-      <a href='#Features'>Features</a>
+      <a href='#features'>⚙️ Features</a>
     </li>
-    <li>Roadmap</li>
-    <li>Getting Started</li>
-    <li>User Guide</li>
+    <li>
+      <a href='#roadmap'>🗓️ Roadmap</a>
+    </li>
+    <li>
+      <a href='#gettingstarted'>🚀 Getting Started</a>
+    </li>
+    <li>
+      <a href='#userguide'>📖 User Guide</a>
+    </li>
+    <li>
+      <a href='#help'>❓ Help</a>
+    </li>
+    <li>
+      <a href='#acknowledgements'>🙌 Acknowledgements</a>
+    </li>
+    <li>
+      <a href='#contributing2'>🤝 Contributing</a>
+    </li>
   </ol>
 </details>
 
 
 
-# News
-* m/d/y Something important goes here.
+<a id='news'></a>
+## 📰 News
+* **m/d/y**: Something important goes here.
+
 
 
 <a id='trailer'></a>
-# 🎬 Trailer
+## 🎬 Trailer
 https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
 
 
-
-# 🖼️ Gallery
+<a id='gallery'></a>
+## 🖼️ Gallery
 <img alt='example' src='https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fphotography-blog%2F19_1011_Upgraded_Combat_Screenshot-1920x1080-b7fb7387b1402312bbbe8fbba6954e1715095059.png' width=49%> <!-- example -->
 <img alt='example' src='https://d.newsweek.com/en/full/1536368/fortnite-chapter-2-season-1-battle-pass.png?w=1200&f=8b3c02f34a6fac95255526d2657a6f7a' width=49%> <!-- example -->
 <img alt='example' src='https://cdn2.unrealengine.com/fortnite-falcon-scout-gameplay-2-1920x1080-65f8bb6b4dfd.jpg' width=49%> <!-- example -->
@@ -93,7 +111,8 @@ https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
 
 
 
-# ⚙️ Features
+<a id='features'></a>
+## ⚙️ Features
 <a href='#---'><img alt='text' height='25' src='https://img.shields.io/badge/Singleplayer-7F7F7F?style=&logo=&logoColor=white'></a>
 <a href='#---'><img alt='text' height='25' src='https://img.shields.io/badge/Action-7F7F7F?style=&logo=&logoColor=white'></a>
 <a href='#---'><img alt='text' height='25' src='https://img.shields.io/badge/Simulation-7F7F7F?style=&logo=&logoColor=white'></a>
@@ -104,7 +123,8 @@ https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
 
 
 
-# 🗺️ Roadmap
+<a id='roadmap'></a>
+## 🗓️ Roadmap
 - [x] **9/5/2024**: example <!-- example -->
 - [ ] **2025**: example 2 <!-- example -->
   - [ ] feature
@@ -112,7 +132,8 @@ https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
 
 
 
-# 🛫 Getting Started
+<a id='gettingstarted'></a>
+## 🚀 Getting Started
 ### Using
 <p> Download and run the installer for your specific operating system from <a href='https://github.com/deantumabcao/README_Template/releases'><img alt='Releases' height='25' src='https://img.shields.io/badge/Releases-64b75d?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg=='></a>. </p>
 
@@ -138,22 +159,17 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare
 
 
 
-# 📞 Contact
-* example
+<a id='help'></a>
+## ❓ Help
 
 
 
-# 🙌 Acknowledgements
+<a id='acknowledgements'></a>
+## 🙌 Acknowledgements
 * [Dean Tumabcao](https://github.com/deantumabcao)
 * This README is inspired from [@othneildrew](https://github.com/othneildrew)'s [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
-
-
-# ⚡ Support
-
-
-
-# 🛠️ Made with
+### 🛠️ Made with
 <a href='https://www.java.com'><img alt='Java' height='25' src='https://img.shields.io/badge/Java-%23ED8B00.svg?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMzQ2Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTgyLjU1NCAyNjcuNDczcy0xMy4xOTggNy42NzUgOS4zOTMgMTAuMjcyYzI3LjM2OSAzLjEyMiA0MS4zNTYgMi42NzUgNzEuNTE3LTMuMDM0YzAgMCA3LjkzIDQuOTcyIDE5LjAwMyA5LjI3OWMtNjcuNjExIDI4Ljk3Ny0xNTMuMDE5LTEuNjc5LTk5LjkxMy0xNi41MTdtLTguMjYyLTM3LjgxNHMtMTQuODAzIDEwLjk1OCA3LjgwNSAxMy4yOTZjMjkuMjM2IDMuMDE2IDUyLjMyNCAzLjI2MyA5Mi4yNzYtNC40M2MwIDAgNS41MjYgNS42MDIgMTQuMjE1IDguNjY2Yy04MS43NDcgMjMuOTA0LTE3Mi43OTggMS44ODUtMTE0LjI5Ni0xNy41MzIiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE0My45NDIgMTY1LjUxNWMxNi42NiAxOS4xOC00LjM3NyAzNi40NC00LjM3NyAzNi40NHM0Mi4zMDEtMjEuODM3IDIyLjg3NC00OS4xODNjLTE4LjE0NC0yNS41LTMyLjA1OS0zOC4xNzIgNDMuMjY4LTgxLjg1OGMwIDAtMTE4LjIzOCAyOS41My02MS43NjUgOTQuNiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjMzLjM2NCAyOTUuNDQyczkuNzY3IDguMDQ3LTEwLjc1NyAxNC4yNzNjLTM5LjAyNiAxMS44MjMtMTYyLjQzMiAxNS4zOTMtMTk2LjcxNC40NzFjLTEyLjMyMy01LjM2IDEwLjc4Ny0xMi44IDE4LjA1Ni0xNC4zNjJjNy41ODEtMS42NDQgMTEuOTE0LTEuMzM3IDExLjkxNC0xLjMzN2MtMTMuNzA1LTkuNjU1LTg4LjU4MyAxOC45NTctMzguMDM0IDI3LjE1YzEzNy44NTMgMjIuMzU2IDI1MS4yOTItMTAuMDY2IDIxNS41MzUtMjYuMTk1TTg4LjkgMTkwLjQ4cy02Mi43NzEgMTQuOTEtMjIuMjI4IDIwLjMyM2MxNy4xMTggMi4yOTIgNTEuMjQzIDEuNzc0IDgzLjAzLS44OWMyNS45NzgtMi4xOSA1Mi4wNjMtNi44NSA1Mi4wNjMtNi44NXMtOS4xNiAzLjkyMy0xNS43ODcgOC40NDhjLTYzLjc0NCAxNi43NjUtMTg2Ljg4NiA4Ljk2Ni0xNTEuNDM1LTguMTgzYzI5Ljk4MS0xNC40OTIgNTQuMzU4LTEyLjg0OCA1NC4zNTgtMTIuODQ4bTExMi42MDUgNjIuOTQyYzY0LjgtMzMuNjcyIDM0LjgzOS02Ni4wMyAxMy45MjctNjEuNjdjLTUuMTI2IDEuMDY2LTcuNDExIDEuOTktNy40MTEgMS45OXMxLjkwMy0yLjk4IDUuNTM3LTQuMjdjNDEuMzctMTQuNTQ1IDczLjE4NyA0Mi44OTctMTMuMzU1IDY1LjY0N2MwIC4wMDEgMS4wMDMtLjg5NSAxLjMwMi0xLjY5NyIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTYyLjQzOS4zNzFzMzUuODg3IDM1LjktMzQuMDM3IDkxLjEwMWMtNTYuMDcxIDQ0LjI4Mi0xMi43ODYgNjkuNTMtLjAyMyA5OC4zNzdjLTMyLjczLTI5LjUzLTU2Ljc1LTU1LjUyNi00MC42MzUtNzkuNzJDMTExLjM5NSA3NC42MTIgMTc2LjkxOCA1Ny4zOTMgMTYyLjQzOS4zNyIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNOTUuMjY4IDM0NC42NjVjNjIuMTk5IDMuOTgyIDE1Ny43MTItMi4yMDkgMTU5Ljk3NC0zMS42NGMwIDAtNC4zNDggMTEuMTU4LTUxLjQwNCAyMC4wMThjLTUzLjA4OCA5Ljk5LTExOC41NjQgOC44MjQtMTU3LjM5OSAyLjQyMWMuMDAxIDAgNy45NSA2LjU4IDQ4LjgzIDkuMjAxIi8+PC9zdmc+&logoColor=white'></a>
 <a href='https://www.jetbrains.com/idea/'><img alt='IntelliJ IDEA' height='25' src='https://img.shields.io/badge/IntelliJIDEA-2b2d30.svg?style=&logo=intellij-idea&logoColor=white'></a>
 <a href='https://www.microsoft.com/windows/windows-11'><img alt='Windows 11' height='25' src='https://img.shields.io/badge/Windows%2011-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yLjc1IDcuMTg5VjIuODY1YzAtLjEwMiAwLS4xMTUuMTE1LS4xMTVoOC42MjJjLjEyOCAwIC4xNCAwIC4xNC4xMjhWMTEuNWMwIC4xMjggMCAuMTI4LS4xNC4xMjhIMi44NjVjLS4xMDIgMC0uMTE1IDAtLjExNS0uMTE2ek03LjE4OSAyMS4yNUgyLjg2NWMtLjEwMiAwLS4xMTUgMC0uMTE1LS4xMTZWMTIuNTljMC0uMTI4IDAtLjEyOC4xMjgtLjEyOGg4LjYzNWMuMTAyIDAgLjExNSAwIC4xMTUuMTE1djguNTdjMCAuMDkgMCAuMTAzLS4xMTYuMTAzek0yMS4yNSA3LjE4OXY0LjMxYzAgLjExNiAwIC4xMTYtLjExNi4xMTZoLTguNTU3Yy0uMTAyIDAtLjEyOCAwLS4xMjgtLjExNVYyLjg2NWMwLS4wOSAwLS4xMDIuMTE1LS4xMDJoOC40OGMuMjA2IDAgLjIwNiAwIC4yMDYuMjA1em0tOC43NjMgOS42NjF2LTQuMjczYzAtLjA5IDAtLjExNS4xMDMtLjA5aDguNjIxYy4wMjYgMCAwIC4wOSAwIC4xNDJ2OC41MThhLjA2LjA2IDAgMCAxLS4wMTcuMDZhLjA2LjA2IDAgMCAxLS4wNi4wMTdIMTIuNTRzLS4wOSAwLS4wNzctLjA5VjE2Ljg1eiIvPjwvc3ZnPg==&logoColor=white'></a>
@@ -162,7 +178,7 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare
 
 
 <a id='contributing2'></a>
-# 🤝 Contributing
+## 🤝 Contributing
 <a href='/LICENSE'><img alt='License' height='25' src='https://img.shields.io/github/license/deantumabcao/README_Template?label=License&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDMuNzVBLjc1Ljc1IDAgMCAxIDMuNzUgM2gxNi41YS43NS43NSAwIDAgMSAwIDEuNWgtMS4wNDJsMi43MzcgNi43MTdBLjguOCAwIDAgMSAyMiAxMS41YTMuNSAzLjUgMCAxIDEtNyAwYS44LjggMCAwIDEgLjA1NS0uMjgzTDE3Ljc5MiA0LjVIMTIuNzV2MTJoNGEyLjI1IDIuMjUgMCAwIDEgMCA0LjVINy4yNTNhMi4yNSAyLjI1IDAgMCAxIDAtNC41aDMuOTk3di0xMkg2LjIwOGwyLjczNyA2LjcxN0EuOC44IDAgMCAxIDkgMTEuNWEzLjUgMy41IDAgMSAxLTcgMGEuOC44IDAgMCAxIC4wNTUtLjI4M0w0Ljc5MiA0LjVIMy43NUEuNzUuNzUgMCAwIDEgMyAzLjc1bTMuNTAzIDE1YzAgLjQxNC4zMzYuNzUuNzUuNzVoOS40OTdhLjc1Ljc1IDAgMCAwIDAtMS41SDcuMjUzYS43NS43NSAwIDAgMC0uNzUuNzVtLjg1Mi02LjVoLTMuNzFhMiAyIDAgMCAwIDMuNzEgMG0tLjIyLTEuNUw1LjUgNi43MzhMMy44NjUgMTAuNzV6TTE4LjUgMTMuNWEyIDIgMCAwIDAgMS44NTUtMS4yNWgtMy43MUEyIDIgMCAwIDAgMTguNSAxMy41bS0xLjYzNS0yLjc1aDMuMjdMMTguNSA2LjczOHoiLz48L3N2Zz4='></a>
 <a href='https://github.com/deantumabcao/README_Template/graphs/contributors'><img alt='Contributors' height='25' src='https://img.shields.io/github/contributors-anon/deantumabcao/README_Template?label=Contributors&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNC43NTQgMTBjLjk2NiAwIDEuNzUuNzg0IDEuNzUgMS43NXY0Ljc0OWE0LjUwMSA0LjUwMSAwIDAgMS05LjAwMiAwVjExLjc1YzAtLjk2Ni43ODMtMS43NSAxLjc1LTEuNzV6bTAgMS41SDkuMjUyYS4yNS4yNSAwIDAgMC0uMjUuMjV2NC43NDlhMy4wMDEgMy4wMDEgMCAwIDAgNi4wMDIgMFYxMS43NWEuMjUuMjUgMCAwIDAtLjI1LS4yNU0zLjc1IDEwaDMuMzgxYTIuNzQgMi43NCAwIDAgMC0uNjE4IDEuNUgzLjc1YS4yNS4yNSAwIDAgMC0uMjUuMjV2My4yNDlhMi41IDIuNSAwIDAgMCAzLjA4MiAyLjQzM2MuMDg1LjUwNC4yNC45ODUuNDUzIDEuNDMyUTYuNTM5IDE4Ljk5OSA2IDE5YTQgNCAwIDAgMS00LTQuMDAxVjExLjc1YzAtLjk2Ni43ODQtMS43NSAxLjc1LTEuNzVtMTMuMTI1IDBoMy4zNzVjLjk2NiAwIDEuNzUuNzg0IDEuNzUgMS43NVYxNWE0IDQgMCAwIDEtNS4wMyAzLjg2NmMuMjE0LS40NDguMzY5LS45MjkuNDU1LTEuNDMzcS4yNzcuMDY2LjU3NS4wNjdhMi41IDIuNSAwIDAgMCAyLjUtMi41di0zLjI1YS4yNS4yNSAwIDAgMC0uMjUtLjI1aC0yLjc1N2EyLjc0IDIuNzQgMCAwIDAtLjYxOC0xLjVNMTIgM2EzIDMgMCAxIDEgMCA2YTMgMyAwIDAgMSAwLTZtNi41IDFhMi41IDIuNSAwIDEgMSAwIDVhMi41IDIuNSAwIDAgMSAwLTVtLTEzIDBhMi41IDIuNSAwIDEgMSAwIDVhMi41IDIuNSAwIDAgMSAwLTVtNi41LjVhMS41IDEuNSAwIDEgMCAwIDNhMS41IDEuNSAwIDAgMCAwLTNtNi41IDFhMSAxIDAgMSAwIDAgMmExIDEgMCAwIDAgMC0ybS0xMyAwYTEgMSAwIDEgMCAwIDJhMSAxIDAgMCAwIDAtMiIvPjwvc3ZnPg=='></a>
 
