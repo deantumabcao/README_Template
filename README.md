@@ -55,7 +55,7 @@
   <summary><h1>📑Table of Contents</h1></summary>
   <ol>
     <li>
-      <a href="#📰-news">News</a>
+      <a href="news">News</a>
     </li>
     <li>
       <a href="#Trailer">Trailer</a>
@@ -73,7 +73,7 @@
 </details>
 
 
-
+<a id='news'></a>
 # 📰 News
 * m/d/y Something important goes here.
 
