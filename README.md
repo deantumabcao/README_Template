@@ -58,7 +58,7 @@
       <a href='#news'>News</a>
     </li>
     <li>
-      <a href='#🎬-trailer'>Trailer</a>
+      <a href='#trailer'>Trailer</a>
     </li>
     <li>
       <a href='#Gallery'>Gallery</a>
@@ -78,7 +78,7 @@
 * m/d/y Something important goes here.
 
 
-  
+<a id='trailer'></a>
 # 🎬 Trailer
 https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
 
