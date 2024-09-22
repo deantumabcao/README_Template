@@ -74,8 +74,7 @@
 
 
 
-<a id='news'></a>
-# 📰 News
+# News
 * m/d/y Something important goes here.
 
 
