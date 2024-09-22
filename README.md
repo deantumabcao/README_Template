@@ -55,16 +55,16 @@
   <summary><h1>📑Table of Contents</h1></summary>
   <ol>
     <li>
-      <a href="news">News</a>
+      <a href='news'>News</a>
     </li>
     <li>
-      <a href="#Trailer">Trailer</a>
+      <a href='#Trailer'>Trailer</a>
     </li>
     <li>
-      <a href="#Gallery">Gallery</a>
+      <a href='#Gallery'>Gallery</a>
     </li>
     <li>
-      <a href="#Features">Features</a>
+      <a href='#Features'>Features</a>
     </li>
     <li>Roadmap</li>
     <li>Getting Started</li>
@@ -73,8 +73,8 @@
 </details>
 
 
-<a id='news'></a>
-# 📰 News
+
+# 📰 News <a id='news'></a>
 * m/d/y Something important goes here.
 
 
