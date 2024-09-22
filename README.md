@@ -58,7 +58,7 @@
       <a href='#news'>News</a>
     </li>
     <li>
-      <a href='#trailer'>Trailer</a>
+      <a href='#🎬-trailer'>Trailer</a>
     </li>
     <li>
       <a href='#Gallery'>Gallery</a>
