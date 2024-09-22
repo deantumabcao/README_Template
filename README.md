@@ -1,4 +1,4 @@
-<!-- ⭐ Dean Tumabcao's README Template v34 -->
+<!-- ⭐ Dean Tumabcao's README Template v89 -->
 <a id='readme-top'></a>
 
 <!-- LOGO AND NAME -->
@@ -147,15 +147,14 @@ Read the [User Guide](#userguide) to learn how you can use the product.
 * Project-specific instructions
 
 
-# <a href='https://github.com/deantumabcao/README_Template/releases'><img alt='Downloads' height='50' src='https://img.shields.io/badge/Downloads-64b75d?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg=='></a>
-
-
 
 <a id='userguide'></a>
-# 📖 User Guide
+## 📖 User Guide
+<details>
 Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare enim bibendum vivamus conubia leo. Penatibus himenaeos fusce auctor ad hendrerit metus tempus lectus. Semper auctor bibendum cursus urna hac pretium. <!-- example -->
 ### Chapter
 * Lorem ipsum odor amet, consectetuer adipiscing elit. Eget ipsum mattis dictum curae hendrerit imperdiet. <!-- example -->
+</details>
 
 
 
