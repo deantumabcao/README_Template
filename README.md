@@ -98,12 +98,13 @@
 
 <a id='trailer'></a>
 ## 🎬 Trailer
+This video belongs to Epic Games. I use this as an example.  
 https://github.com/user-attachments/assets/e56af57c-b6f9-4db8-b529-ec07b3172f1e
 
 
 <a id='gallery'></a>
 ## 🖼️ Gallery
-These images belong to Epic Games. I use them for this example.  
+These images belong to Epic Games. I use them as examples.  
 <img alt='example' src='https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fphotography-blog%2F19_1011_Upgraded_Combat_Screenshot-1920x1080-b7fb7387b1402312bbbe8fbba6954e1715095059.png' width=49%> <!-- example -->
 <img alt='example' src='https://d.newsweek.com/en/full/1536368/fortnite-chapter-2-season-1-battle-pass.png?w=1200&f=8b3c02f34a6fac95255526d2657a6f7a' width=49%> <!-- example -->
 <img alt='example' src='https://cdn2.unrealengine.com/fortnite-falcon-scout-gameplay-2-1920x1080-65f8bb6b4dfd.jpg' width=49%> <!-- example -->
