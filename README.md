@@ -35,6 +35,7 @@
   <a href='https://www.linux.org/'><img alt='Linux' height='30' src='https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black'></a>
   <a href='https://www.android.com/'><img alt='Android' height='30' src='https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white'></a>
   <a href='https://www.apple.com/ios'><img alt='iOS' height='30' src='https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white'></a>
+  <a href='#---'><img alt='Web' height='30' src='https://img.shields.io/badge/Web-FFFFFF?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzMzMzMzMyIgZD0iTTEyIDEuOTk4YzUuNTI0IDAgMTAuMDAyIDQuNDc4IDEwLjAwMiAxMC4wMDJjMCA1LjUyMy00LjQ3OCAxMC0xMC4wMDIgMTBTMiAxNy41MjMgMiAxMkMxLjk5OSA2LjQ3NiA2LjQ3NiAxLjk5OCAxMiAxLjk5OE0xNC45NCAxNi41SDkuMDYxYy42NTIgMi40MTUgMS43ODYgNC4wMDIgMi45NCA0LjAwMnMyLjI4Ni0xLjU4OCAyLjkzOC00LjAwMm0tNy40MyAwSDQuNzg1YTguNTMgOC41MyAwIDAgMCA0LjA5NSAzLjQxYy0uNTIyLS44Mi0uOTUzLTEuODQ2LTEuMjctMy4wMTV6bTExLjcwNSAwaC0yLjcyMmMtLjMyNCAxLjMzNS0uNzkyIDIuNS0xLjM3MyAzLjQxMWE4LjUzIDguNTMgMCAwIDAgMy45MS0zLjEyN3pNNy4wOTQgMTBIMy43MzZsLS4wMDUuMDE3QTguNSA4LjUgMCAwIDAgMy41IDEyYTguNSA4LjUgMCAwIDAgLjU0NCAzaDMuMTczQTIwIDIwIDAgMCAxIDcgMTJjMC0uNjg0LjAzMi0xLjM1NC4wOTUtMi4wMDFtOC4zMDMgMEg4LjYwM2ExOSAxOSAwIDAgMCAuMTM1IDVoNi41MjRhMTkgMTkgMCAwIDAgLjEzNS01bTQuODY4IDBoLTMuMzU4Yy4wNjIuNjQ3LjA5NSAxLjMxNy4wOTUgMmEyMCAyMCAwIDAgMS0uMjE4IDNoMy4xNzNhOC41IDguNSAwIDAgMCAuNTQ1LTNjMC0uNjg5LS4wODItMS4zNTktLjIzNy0yTTguODggNC4wODhsLS4wMjMuMDA4QTguNTMgOC41MyAwIDAgMCA0LjI1IDguNWgzLjA0OGMuMzE0LTEuNzUyLjg2LTMuMjc4IDEuNTgzLTQuNDFtMy4xMi0uNTkxbC0uMTE3LjAwNUMxMC42MiAzLjYyIDkuMzk3IDUuNjIxIDguODMgOC41aDYuMzQyYy0uNTY2LTIuODctMS43ODMtNC44NjktMy4wNDUtNC45OTV6bTMuMTIuNTlsLjEwNi4xNzVjLjY3IDEuMTEyIDEuMTc3IDIuNTcyIDEuNDc1IDQuMjM3aDMuMDQ4YTguNTMgOC41MyAwIDAgMC00LjMzOS00LjI5eiIvPjwvc3ZnPg=='></a>
 
   <!-- ACTIONS -->
   ##
@@ -154,6 +155,7 @@ Download and run a <a href='https://github.com/deantumabcao/README_Template/rele
 <a id='userguide'></a>
 ## 📖 User Guide
 <details>
+  <summary><b>Details</b></summary>
 Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare enim bibendum vivamus conubia leo. Penatibus himenaeos fusce auctor ad hendrerit metus tempus lectus. Semper auctor bibendum cursus urna hac pretium. <!-- example -->
 ### Chapter
 * Lorem ipsum odor amet, consectetuer adipiscing elit. Eget ipsum mattis dictum curae hendrerit imperdiet. <!-- example -->
@@ -185,7 +187,7 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare
 <a href='https://github.com/deantumabcao/README_Template/graphs/contributors'><img alt='Contributors' height='25' src='https://img.shields.io/github/contributors-anon/deantumabcao/README_Template?label=Contributors&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNC43NTQgMTBjLjk2NiAwIDEuNzUuNzg0IDEuNzUgMS43NXY0Ljc0OWE0LjUwMSA0LjUwMSAwIDAgMS05LjAwMiAwVjExLjc1YzAtLjk2Ni43ODMtMS43NSAxLjc1LTEuNzV6bTAgMS41SDkuMjUyYS4yNS4yNSAwIDAgMC0uMjUuMjV2NC43NDlhMy4wMDEgMy4wMDEgMCAwIDAgNi4wMDIgMFYxMS43NWEuMjUuMjUgMCAwIDAtLjI1LS4yNU0zLjc1IDEwaDMuMzgxYTIuNzQgMi43NCAwIDAgMC0uNjE4IDEuNUgzLjc1YS4yNS4yNSAwIDAgMC0uMjUuMjV2My4yNDlhMi41IDIuNSAwIDAgMCAzLjA4MiAyLjQzM2MuMDg1LjUwNC4yNC45ODUuNDUzIDEuNDMyUTYuNTM5IDE4Ljk5OSA2IDE5YTQgNCAwIDAgMS00LTQuMDAxVjExLjc1YzAtLjk2Ni43ODQtMS43NSAxLjc1LTEuNzVtMTMuMTI1IDBoMy4zNzVjLjk2NiAwIDEuNzUuNzg0IDEuNzUgMS43NVYxNWE0IDQgMCAwIDEtNS4wMyAzLjg2NmMuMjE0LS40NDguMzY5LS45MjkuNDU1LTEuNDMzcS4yNzcuMDY2LjU3NS4wNjdhMi41IDIuNSAwIDAgMCAyLjUtMi41di0zLjI1YS4yNS4yNSAwIDAgMC0uMjUtLjI1aC0yLjc1N2EyLjc0IDIuNzQgMCAwIDAtLjYxOC0xLjVNMTIgM2EzIDMgMCAxIDEgMCA2YTMgMyAwIDAgMSAwLTZtNi41IDFhMi41IDIuNSAwIDEgMSAwIDVhMi41IDIuNSAwIDAgMSAwLTVtLTEzIDBhMi41IDIuNSAwIDEgMSAwIDVhMi41IDIuNSAwIDAgMSAwLTVtNi41LjVhMS41IDEuNSAwIDEgMCAwIDNhMS41IDEuNSAwIDAgMCAwLTNtNi41IDFhMSAxIDAgMSAwIDAgMmExIDEgMCAwIDAgMC0ybS0xMyAwYTEgMSAwIDEgMCAwIDJhMSAxIDAgMCAwIDAtMiIvPjwvc3ZnPg=='></a>
 
 <details>
-<summary><b>Contribution Guide</b></summary>
+<summary><b>Details</b></summary>
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
