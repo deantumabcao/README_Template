@@ -26,7 +26,8 @@
 <div align='center'>
 
   <!-- Brief description and hook -->
-  Impress prospective customers with this README tailored to grab their attention and provide vital information.
+  Impress prospective customers with this README tailored to grab their attention and provide vital information.  
+  All media in this document is intended for example purposes only.
 
   <!-- Platforms -->
   ## 💻 Platforms
