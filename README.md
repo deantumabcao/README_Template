@@ -32,7 +32,7 @@
   ## 💻 Platforms
   <a href='https://www.microsoft.com/windows/'><img alt='Windows' height='30' src='https://img.shields.io/badge/Windows-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yLjc1IDcuMTg5VjIuODY1YzAtLjEwMiAwLS4xMTUuMTE1LS4xMTVoOC42MjJjLjEyOCAwIC4xNCAwIC4xNC4xMjhWMTEuNWMwIC4xMjggMCAuMTI4LS4xNC4xMjhIMi44NjVjLS4xMDIgMC0uMTE1IDAtLjExNS0uMTE2ek03LjE4OSAyMS4yNUgyLjg2NWMtLjEwMiAwLS4xMTUgMC0uMTE1LS4xMTZWMTIuNTljMC0uMTI4IDAtLjEyOC4xMjgtLjEyOGg4LjYzNWMuMTAyIDAgLjExNSAwIC4xMTUuMTE1djguNTdjMCAuMDkgMCAuMTAzLS4xMTYuMTAzek0yMS4yNSA3LjE4OXY0LjMxYzAgLjExNiAwIC4xMTYtLjExNi4xMTZoLTguNTU3Yy0uMTAyIDAtLjEyOCAwLS4xMjgtLjExNVYyLjg2NWMwLS4wOSAwLS4xMDIuMTE1LS4xMDJoOC40OGMuMjA2IDAgLjIwNiAwIC4yMDYuMjA1em0tOC43NjMgOS42NjF2LTQuMjczYzAtLjA5IDAtLjExNS4xMDMtLjA5aDguNjIxYy4wMjYgMCAwIC4wOSAwIC4xNDJ2OC41MThhLjA2LjA2IDAgMCAxLS4wMTcuMDZhLjA2LjA2IDAgMCAxLS4wNi4wMTdIMTIuNTRzLS4wOSAwLS4wNzctLjA5VjE2Ljg1eiIvPjwvc3ZnPg==&logoColor=white'></a>
   <a href='https://www.apple.com/macos/sonoma/'><img alt='macOS' height='30' src='https://img.shields.io/badge/macOS-000000?style=&logo=apple&logoColor=white'></a>
-  <a href='https://www.linux.org/'><img alt='Linux' height='30' src='https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black'></a>
+  <a href='https://www.linux.org/'><img alt='Linux' height='30' src='https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=333333'></a>
   <a href='https://www.android.com/'><img alt='Android' height='30' src='https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white'></a>
   <a href='https://www.apple.com/ios'><img alt='iOS' height='30' src='https://img.shields.io/badge/iOS-000000?style=&logo=apple&logoColor=white'></a>
   <a href='#---'><img alt='Web' height='30' src='https://img.shields.io/badge/Web-FFFFFF?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzMzMzMzMyIgZD0iTTEyIDEuOTk4YzUuNTI0IDAgMTAuMDAyIDQuNDc4IDEwLjAwMiAxMC4wMDJjMCA1LjUyMy00LjQ3OCAxMC0xMC4wMDIgMTBTMiAxNy41MjMgMiAxMkMxLjk5OSA2LjQ3NiA2LjQ3NiAxLjk5OCAxMiAxLjk5OE0xNC45NCAxNi41SDkuMDYxYy42NTIgMi40MTUgMS43ODYgNC4wMDIgMi45NCA0LjAwMnMyLjI4Ni0xLjU4OCAyLjkzOC00LjAwMm0tNy40MyAwSDQuNzg1YTguNTMgOC41MyAwIDAgMCA0LjA5NSAzLjQxYy0uNTIyLS44Mi0uOTUzLTEuODQ2LTEuMjctMy4wMTV6bTExLjcwNSAwaC0yLjcyMmMtLjMyNCAxLjMzNS0uNzkyIDIuNS0xLjM3MyAzLjQxMWE4LjUzIDguNTMgMCAwIDAgMy45MS0zLjEyN3pNNy4wOTQgMTBIMy43MzZsLS4wMDUuMDE3QTguNSA4LjUgMCAwIDAgMy41IDEyYTguNSA4LjUgMCAwIDAgLjU0NCAzaDMuMTczQTIwIDIwIDAgMCAxIDcgMTJjMC0uNjg0LjAzMi0xLjM1NC4wOTUtMi4wMDFtOC4zMDMgMEg4LjYwM2ExOSAxOSAwIDAgMCAuMTM1IDVoNi41MjRhMTkgMTkgMCAwIDAgLjEzNS01bTQuODY4IDBoLTMuMzU4Yy4wNjIuNjQ3LjA5NSAxLjMxNy4wOTUgMmEyMCAyMCAwIDAgMS0uMjE4IDNoMy4xNzNhOC41IDguNSAwIDAgMCAuNTQ1LTNjMC0uNjg5LS4wODItMS4zNTktLjIzNy0yTTguODggNC4wODhsLS4wMjMuMDA4QTguNTMgOC41MyAwIDAgMCA0LjI1IDguNWgzLjA0OGMuMzE0LTEuNzUyLjg2LTMuMjc4IDEuNTgzLTQuNDFtMy4xMi0uNTkxbC0uMTE3LjAwNUMxMC42MiAzLjYyIDkuMzk3IDUuNjIxIDguODMgOC41aDYuMzQyYy0uNTY2LTIuODctMS43ODMtNC44NjktMy4wNDUtNC45OTV6bTMuMTIuNTlsLjEwNi4xNzVjLjY3IDEuMTEyIDEuMTc3IDIuNTcyIDEuNDc1IDQuMjM3aDMuMDQ4YTguNTMgOC41MyAwIDAgMC00LjMzOS00LjI5eiIvPjwvc3ZnPg=='></a>
@@ -157,8 +157,10 @@ Download and run a <a href='https://github.com/deantumabcao/README_Template/rele
 <details>
   <summary><b>Details</b></summary>
 Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare enim bibendum vivamus conubia leo. Penatibus himenaeos fusce auctor ad hendrerit metus tempus lectus. Semper auctor bibendum cursus urna hac pretium. <!-- example -->
-### Chapter
-* Lorem ipsum odor amet, consectetuer adipiscing elit. Eget ipsum mattis dictum curae hendrerit imperdiet. <!-- example -->
+<h3>Chapter</h3>
+<ul>
+  <li>Lorem ipsum odor amet, consectetuer adipiscing elit. Eget ipsum mattis dictum curae hendrerit imperdiet.</li> <!-- example -->
+</ul>
 </details>
 
 
@@ -196,7 +198,7 @@ This contribution guide is modified to make the contribution process easier for 
 2. [Fork](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#forking-a-repository) this remote repo (repository) to get your own editable remote copy of it [[forking?](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#about-forking)]
 3. [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) your forked repo online OR [Clone](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#cloning-a-fork) (make local copy) your forked repository to your device and edit it on a local code editor (Visual Studio, IntelliJ IDEA, etc.)
 
-> [!TIP]
+> **TIP:**  
 > Create a branch of another branch, if you want to have an untouched copy of that branch for future reference [[branches?](https://docs.github.com/en/get-started/start-your-journey/hello-world#step-2-create-a-branch)]
 > * `git checkout -b branchName` (creates branch named 'branchName' of the one you're viewing and views it)
 > * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#create-a-new-branch)
