@@ -48,9 +48,7 @@
 </div>
 
 
-
-<br/>
-
+---
 
 
 <!-- TABLE OF CONTENTS -->
@@ -94,6 +92,7 @@
 
 <a id='news'></a>
 ## 📰 News
+* **10/4/2024**: Something happened!
 * **m/d/y**: Something important goes here.
 
 
