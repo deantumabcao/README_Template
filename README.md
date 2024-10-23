@@ -140,7 +140,7 @@ These images belong to Epic Games. I use them as examples.
 
 
 <a id='gettingstarted'></a>
-## ▶️ Getting Started
+## ▶️ Get Started
 ### Using
 
 * Download and run the installer for your specific operating system from <a href='https://github.com/deantumabcao/README_Template/releases'><img alt='Releases' height='25' src='https://img.shields.io/badge/Releases-64b75d?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg=='></a>.  
