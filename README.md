@@ -191,38 +191,10 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare
 <a href='/LICENSE'><img alt='License' height='25' src='https://img.shields.io/github/license/deantumabcao/README_Template?label=License&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDMuNzVBLjc1Ljc1IDAgMCAxIDMuNzUgM2gxNi41YS43NS43NSAwIDAgMSAwIDEuNWgtMS4wNDJsMi43MzcgNi43MTdBLjguOCAwIDAgMSAyMiAxMS41YTMuNSAzLjUgMCAxIDEtNyAwYS44LjggMCAwIDEgLjA1NS0uMjgzTDE3Ljc5MiA0LjVIMTIuNzV2MTJoNGEyLjI1IDIuMjUgMCAwIDEgMCA0LjVINy4yNTNhMi4yNSAyLjI1IDAgMCAxIDAtNC41aDMuOTk3di0xMkg2LjIwOGwyLjczNyA2LjcxN0EuOC44IDAgMCAxIDkgMTEuNWEzLjUgMy41IDAgMSAxLTcgMGEuOC44IDAgMCAxIC4wNTUtLjI4M0w0Ljc5MiA0LjVIMy43NUEuNzUuNzUgMCAwIDEgMyAzLjc1bTMuNTAzIDE1YzAgLjQxNC4zMzYuNzUuNzUuNzVoOS40OTdhLjc1Ljc1IDAgMCAwIDAtMS41SDcuMjUzYS43NS43NSAwIDAgMC0uNzUuNzVtLjg1Mi02LjVoLTMuNzFhMiAyIDAgMCAwIDMuNzEgMG0tLjIyLTEuNUw1LjUgNi43MzhMMy44NjUgMTAuNzV6TTE4LjUgMTMuNWEyIDIgMCAwIDAgMS44NTUtMS4yNWgtMy43MUEyIDIgMCAwIDAgMTguNSAxMy41bS0xLjYzNS0yLjc1aDMuMjdMMTguNSA2LjczOHoiLz48L3N2Zz4='></a>
 <a href='https://github.com/deantumabcao/README_Template/graphs/contributors'><img alt='Contributors' height='25' src='https://img.shields.io/github/contributors-anon/deantumabcao/README_Template?label=Contributors&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNC43NTQgMTBjLjk2NiAwIDEuNzUuNzg0IDEuNzUgMS43NXY0Ljc0OWE0LjUwMSA0LjUwMSAwIDAgMS05LjAwMiAwVjExLjc1YzAtLjk2Ni43ODMtMS43NSAxLjc1LTEuNzV6bTAgMS41SDkuMjUyYS4yNS4yNSAwIDAgMC0uMjUuMjV2NC43NDlhMy4wMDEgMy4wMDEgMCAwIDAgNi4wMDIgMFYxMS43NWEuMjUuMjUgMCAwIDAtLjI1LS4yNU0zLjc1IDEwaDMuMzgxYTIuNzQgMi43NCAwIDAgMC0uNjE4IDEuNUgzLjc1YS4yNS4yNSAwIDAgMC0uMjUuMjV2My4yNDlhMi41IDIuNSAwIDAgMCAzLjA4MiAyLjQzM2MuMDg1LjUwNC4yNC45ODUuNDUzIDEuNDMyUTYuNTM5IDE4Ljk5OSA2IDE5YTQgNCAwIDAgMS00LTQuMDAxVjExLjc1YzAtLjk2Ni43ODQtMS43NSAxLjc1LTEuNzVtMTMuMTI1IDBoMy4zNzVjLjk2NiAwIDEuNzUuNzg0IDEuNzUgMS43NVYxNWE0IDQgMCAwIDEtNS4wMyAzLjg2NmMuMjE0LS40NDguMzY5LS45MjkuNDU1LTEuNDMzcS4yNzcuMDY2LjU3NS4wNjdhMi41IDIuNSAwIDAgMCAyLjUtMi41di0zLjI1YS4yNS4yNSAwIDAgMC0uMjUtLjI1aC0yLjc1N2EyLjc0IDIuNzQgMCAwIDAtLjYxOC0xLjVNMTIgM2EzIDMgMCAxIDEgMCA2YTMgMyAwIDAgMSAwLTZtNi41IDFhMi41IDIuNSAwIDEgMSAwIDVhMi41IDIuNSAwIDAgMSAwLTVtLTEzIDBhMi41IDIuNSAwIDEgMSAwIDVhMi41IDIuNSAwIDAgMSAwLTVtNi41LjVhMS41IDEuNSAwIDEgMCAwIDNhMS41IDEuNSAwIDAgMCAwLTNtNi41IDFhMSAxIDAgMSAwIDAgMmExIDEgMCAwIDAgMC0ybS0xMyAwYTEgMSAwIDEgMCAwIDJhMSAxIDAgMCAwIDAtMiIvPjwvc3ZnPg=='></a>
 
-<details>
-<summary><b>Details</b></summary>
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
-This contribution guide is modified to make the contribution process easier for users.
-1. Have a [GitHub Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) [[GitHub?](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)]
-2. [Fork](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#forking-a-repository) this remote repo (repository) to get your own editable remote copy of it [[forking?](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#about-forking)]
-3. [Edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) your forked repo online OR [Clone](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#cloning-a-fork) (make local copy) your forked repository to your device and edit it on a local code editor (Visual Studio, IntelliJ IDEA, etc.)
-
-> **TIP:**  
-> Create a branch of another branch, if you want to have an untouched copy of that branch for future reference [[branches?](https://docs.github.com/en/get-started/start-your-journey/hello-world#step-2-create-a-branch)]
-> * `git checkout -b branchName` (creates branch named 'branchName' of the one you're viewing and views it)
-> * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#create-a-new-branch)
-> * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-branch?view=vs-2022)
-> * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/manage-branches.html#create-branch)
-
-5. Make changes to a branch 
-4. Commit your changes to make an updated snapshot of your branch with your new changes
-   * `git commit -m 'commitMessage'` (creates commit with message 'commitMessage' in currently viewed (checked out) branch)
-   * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#commit-your-changes) (You can only commit *and* push as editor is online)
-   * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-make-commit?view=vs-2022)
-   * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/commit-and-push-changes.html#commit)
-5. Push (upload to remote) your local branch with its new changes to its corresponding branch on your remote forked repo
-   * `git push origin branchName` (pushes branch named 'branchName' to remote GitHub repository defined 'origin')
-   * [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor#commit-your-changes) (You can only commit *and* push as editor is online)
-   * [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-push-remote?view=vs-2022)
-   * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/commit-and-push-changes.html#push)
-6. Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) (multi-platform guide) to request a merge of your Feature Branch and the original project repo's Main Branch [[pull request and merge?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#about-pull-requests)]
-
 For more information, see [Contributing to a project - Github Docs](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
-</details>
 
 ## [🔝 Back To Top](#readme-top)
 
