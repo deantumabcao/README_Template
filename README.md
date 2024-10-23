@@ -74,7 +74,7 @@
       <a href='#roadmap'>🗓️ Roadmap</a>
     </li>
     <li>
-      <a href='#gettingstarted'>🚀 Getting Started</a>
+      <a href='#getstarted'>▶️ Get Started</a>
     </li>
     <li>
       <a href='#userguide'>📖 User Guide</a>
@@ -139,14 +139,14 @@ These images belong to Epic Games. I use them as examples.
 
 
 
-<a id='gettingstarted'></a>
+<a id='getstarted'></a>
 ## ▶️ Get Started
 ### Using
 
 * Download and run the installer for your specific operating system from <a href='https://github.com/deantumabcao/README_Template/releases'><img alt='Releases' height='25' src='https://img.shields.io/badge/Releases-64b75d?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyMC41YS43NS43NSAwIDEgMSAwIDEuNWwtMTMgLjAwNWEuNzUuNzUgMCAxIDEgMC0xLjV6TTExLjY0OCAyLjAxNGwuMTAyLS4wMDdhLjc1Ljc1IDAgMCAxIC43NDMuNjQ4bC4wMDcuMTAybC0uMDAxIDEzLjY4NWwzLjcyMi0zLjcyYS43NS43NSAwIDAgMSAuOTc2LS4wNzNsLjA4NS4wNzNhLjc1Ljc1IDAgMCAxIC4wNzIuOTc2bC0uMDczLjA4NGwtNC45OTcgNC45OTdhLjc1Ljc1IDAgMCAxLS45NzYuMDczbC0uMDg1LS4wNzNsLTUuMDAzLTQuOTk2YS43NS43NSAwIDAgMSAuOTc2LTEuMTM0bC4wODQuMDcybDMuNzE5IDMuNzE0TDExIDIuNzU2YS43NS43NSAwIDAgMSAuNjQ4LS43NDNsLjEwMi0uMDA3eiIvPjwvc3ZnPg=='></a>.  
 Download and run a <a href='https://github.com/deantumabcao/README_Template/releases/latest'><img alt='Latest Version' height='20' src='https://img.shields.io/github/v/release/deantumabcaofhs/A_Plane?label=Latest%20Version&color=64b75d&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMy41IDEyYTguNSA4LjUgMCAxIDEgMTcgMGE4LjUgOC41IDAgMCAxLTE3IDBNMTIgMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMHMxMC00LjQ3NyAxMC0xMFMxNy41MjMgMiAxMiAybTUuNSA2LjI1YS43NS43NSAwIDAgMC0xLjUgMFY5YTUgNSAwIDAgMC00LTJhNC45OSA0Ljk5IDAgMCAwLTMuODEgMS43NjJhLjc1Ljc1IDAgMSAwIDEuMTQzLjk3MmEzLjUgMy41IDAgMCAxIDUuODMuNzY2SDEzLjc1YS43NS43NSAwIDAgMCAwIDEuNWgzYS43NS43NSAwIDAgMCAuNzUtLjc1ek03LjI1IDE2LjVhLjc1Ljc1IDAgMCAxLS43NS0uNzV2LTNhLjc1Ljc1IDAgMCAxIC43NS0uNzVoM2EuNzUuNzUgMCAwIDEgMCAxLjVIOC44MzdhMy41IDMuNSAwIDAgMCA1LjgzLjc2N2EuNzUuNzUgMCAwIDEgMS4xNDIuOTcyQTQuOTkgNC45OSAwIDAgMSAxMiAxN2E1IDUgMCAwIDEtNC0ydi43NWEuNzUuNzUgMCAwIDEtLjc1Ljc1Ii8+PC9zdmc+'></a> installer to access the recommended *newest* features and fixes.
 
-* Read the [📖 User Guide](#userguide) to learn how you can use the product.
+* Read the [📖 User Guide](#userguide) to learn how you can use this product.
 
 
 ### Contributing
