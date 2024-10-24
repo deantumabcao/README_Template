@@ -30,7 +30,7 @@
   All media in this document is intended for example purposes only.
 
   <!-- Platforms -->
-  ## 💻 Platforms
+  ## Platforms
   <a href='https://www.microsoft.com/windows/'><img alt='Windows' height='30' src='https://img.shields.io/badge/Windows-0078D6?style=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yLjc1IDcuMTg5VjIuODY1YzAtLjEwMiAwLS4xMTUuMTE1LS4xMTVoOC42MjJjLjEyOCAwIC4xNCAwIC4xNC4xMjhWMTEuNWMwIC4xMjggMCAuMTI4LS4xNC4xMjhIMi44NjVjLS4xMDIgMC0uMTE1IDAtLjExNS0uMTE2ek03LjE4OSAyMS4yNUgyLjg2NWMtLjEwMiAwLS4xMTUgMC0uMTE1LS4xMTZWMTIuNTljMC0uMTI4IDAtLjEyOC4xMjgtLjEyOGg4LjYzNWMuMTAyIDAgLjExNSAwIC4xMTUuMTE1djguNTdjMCAuMDkgMCAuMTAzLS4xMTYuMTAzek0yMS4yNSA3LjE4OXY0LjMxYzAgLjExNiAwIC4xMTYtLjExNi4xMTZoLTguNTU3Yy0uMTAyIDAtLjEyOCAwLS4xMjgtLjExNVYyLjg2NWMwLS4wOSAwLS4xMDIuMTE1LS4xMDJoOC40OGMuMjA2IDAgLjIwNiAwIC4yMDYuMjA1em0tOC43NjMgOS42NjF2LTQuMjczYzAtLjA5IDAtLjExNS4xMDMtLjA5aDguNjIxYy4wMjYgMCAwIC4wOSAwIC4xNDJ2OC41MThhLjA2LjA2IDAgMCAxLS4wMTcuMDZhLjA2LjA2IDAgMCAxLS4wNi4wMTdIMTIuNTRzLS4wOSAwLS4wNzctLjA5VjE2Ljg1eiIvPjwvc3ZnPg==&logoColor=white'></a>
   <a href='https://www.apple.com/macos/sonoma/'><img alt='macOS' height='30' src='https://img.shields.io/badge/macOS-000000?style=&logo=apple&logoColor=white'></a>
   <a href='https://www.linux.org/'><img alt='Linux' height='30' src='https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=333333'></a>
@@ -45,9 +45,13 @@
   <a href='/LICENSE'><img alt='License' height='40' src='https://img.shields.io/github/license/deantumabcao/README_Template?label=License&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDMuNzVBLjc1Ljc1IDAgMCAxIDMuNzUgM2gxNi41YS43NS43NSAwIDAgMSAwIDEuNWgtMS4wNDJsMi43MzcgNi43MTdBLjguOCAwIDAgMSAyMiAxMS41YTMuNSAzLjUgMCAxIDEtNyAwYS44LjggMCAwIDEgLjA1NS0uMjgzTDE3Ljc5MiA0LjVIMTIuNzV2MTJoNGEyLjI1IDIuMjUgMCAwIDEgMCA0LjVINy4yNTNhMi4yNSAyLjI1IDAgMCAxIDAtNC41aDMuOTk3di0xMkg2LjIwOGwyLjczNyA2LjcxN0EuOC44IDAgMCAxIDkgMTEuNWEzLjUgMy41IDAgMSAxLTcgMGEuOC44IDAgMCAxIC4wNTUtLjI4M0w0Ljc5MiA0LjVIMy43NUEuNzUuNzUgMCAwIDEgMyAzLjc1bTMuNTAzIDE1YzAgLjQxNC4zMzYuNzUuNzUuNzVoOS40OTdhLjc1Ljc1IDAgMCAwIDAtMS41SDcuMjUzYS43NS43NSAwIDAgMC0uNzUuNzVtLjg1Mi02LjVoLTMuNzFhMiAyIDAgMCAwIDMuNzEgMG0tLjIyLTEuNUw1LjUgNi43MzhMMy44NjUgMTAuNzV6TTE4LjUgMTMuNWEyIDIgMCAwIDAgMS44NTUtMS4yNWgtMy43MUEyIDIgMCAwIDAgMTguNSAxMy41bS0xLjYzNS0yLjc1aDMuMjdMMTguNSA2LjczOHoiLz48L3N2Zz4='></a>
   <!-- 👆change the link to be your repository see choosealicense.com -->
 
+<!-- Info -->
 <a href=''><img alt='Stars' height='25' src='https://img.shields.io/github/stars/deantumabcao/README_Template'></a>
+<a href=''><img alt='# of Downloads' height='25' src='https://img.shields.io/github/downloads/deantumabcao/README_Template/total?label=Number%20of%20Downloads'></a>
+<a href='https://github.com/deantumabcao/README_Template/graphs/contributors'><img alt='Contributors' height='25' src='https://img.shields.io/github/contributors-anon/deantumabcao/README_Template?label=Contributors&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNC43NTQgMTBjLjk2NiAwIDEuNzUuNzg0IDEuNzUgMS43NXY0Ljc0OWE0LjUwMSA0LjUwMSAwIDAgMS05LjAwMiAwVjExLjc1YzAtLjk2Ni43ODMtMS43NSAxLjc1LTEuNzV6bTAgMS41SDkuMjUyYS4yNS4yNSAwIDAgMC0uMjUuMjV2NC43NDlhMy4wMDEgMy4wMDEgMCAwIDAgNi4wMDIgMFYxMS43NWEuMjUuMjUgMCAwIDAtLjI1LS4yNU0zLjc1IDEwaDMuMzgxYTIuNzQgMi43NCAwIDAgMC0uNjE4IDEuNUgzLjc1YS4yNS4yNSAwIDAgMC0uMjUuMjV2My4yNDlhMi41IDIuNSAwIDAgMCAzLjA4MiAyLjQzM2MuMDg1LjUwNC4yNC45ODUuNDUzIDEuNDMyUTYuNTM5IDE4Ljk5OSA2IDE5YTQgNCAwIDAgMS00LTQuMDAxVjExLjc1YzAtLjk2Ni43ODQtMS43NSAxLjc1LTEuNzVtMTMuMTI1IDBoMy4zNzVjLjk2NiAwIDEuNzUuNzg0IDEuNzUgMS43NVYxNWE0IDQgMCAwIDEtNS4wMyAzLjg2NmMuMjE0LS40NDguMzY5LS45MjkuNDU1LTEuNDMzcS4yNzcuMDY2LjU3NS4wNjdhMi41IDIuNSAwIDAgMCAyLjUtMi41di0zLjI1YS4yNS4yNSAwIDAgMC0uMjUtLjI1aC0yLjc1N2EyLjc0IDIuNzQgMCAwIDAtLjYxOC0xLjVNMTIgM2EzIDMgMCAxIDEgMCA2YTMgMyAwIDAgMSAwLTZtNi41IDFhMi41IDIuNSAwIDEgMSAwIDVhMi41IDIuNSAwIDAgMSAwLTVtLTEzIDBhMi41IDIuNSAwIDEgMSAwIDVhMi41IDIuNSAwIDAgMSAwLTVtNi41LjVhMS41IDEuNSAwIDEgMCAwIDNhMS41IDEuNSAwIDAgMCAwLTNtNi41IDFhMSAxIDAgMSAwIDAgMmExIDEgMCAwIDAgMC0ybS0xMyAwYTEgMSAwIDEgMCAwIDJhMSAxIDAgMCAwIDAtMiIvPjwvc3ZnPg=='></a>
 
 </div>
+
 
 
 ---
@@ -148,6 +152,7 @@ Download and run a <a href='https://github.com/deantumabcao/README_Template/rele
 
 * Read the [📖 User Guide](#userguide) to learn how you can use this product.
 
+### Running Locally
 
 ### Contributing
 * Read [🤝 Contributing](#contributing2) to learn how to make changes on GitHub and locally
@@ -198,6 +203,6 @@ For more information, see [Contributing to a project - Github Docs](https://docs
 
 ## [🔝 Back To Top](#readme-top)
 
-<!-- SHIELDS.IO BADGE FORMAT: <a href='#---'><img alt='text' height='25' src='https://img.shields.io/badge/message-000000?style=&logo=&logoColor=white'></a> DONTCOPYHERE-->
+<!-- SHIELDS.IO BADGE FORMAT: <a href='#---'><img alt='text' height='25' src='https://img.shields.io/badge/message-000000?style=&logo=&logoColor=white&label='></a> DONTCOPYHERE-->
 <!-- More info at https://shields.io/badges -->
 <!-- Premade Badges at https://github.com/Ileriayo/markdown-badges -->
