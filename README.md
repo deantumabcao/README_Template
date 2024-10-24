@@ -152,8 +152,6 @@ Download and run a <a href='https://github.com/deantumabcao/README_Template/rele
 
 * Read the [📖 User Guide](#userguide) to learn how you can use this product.
 
-### Running Locally
-
 ### Contributing
 * Read [🤝 Contributing](#contributing2) to learn how to make changes on GitHub and locally
 * Project-specific instructions
