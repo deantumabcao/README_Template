@@ -4,8 +4,10 @@
 <!-- LOGO AND NAME -->
 <div align='center'>
   
-  <!-- Logo <img src='/logo.svg' width=15/60% alt='Project Name'> -->
-  <img src='/ReadMeTemplateBanner.svg' alt='Project Artwork'> <!-- Banner inkscape twitter header template -->
+  <!-- Logo <img src='/logo.svg' width=60% alt='Project Name'> -->
+  <!-- <img src='/ReadMeTemplateBanner.svg' alt='Project Artwork'> <!-- Banner inkscape twitter header template -->
+  <img src='https://github.com/user-attachments/assets/2f3fdbfb-a7bf-45c4-b0b0-2b4de1d2c23a' width=15% alt='Project Name'>
+
 
   <!-- Project Name -->
   # README Template
