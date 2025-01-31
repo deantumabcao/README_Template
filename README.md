@@ -173,11 +173,6 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Lobortis condimentum ornare
 
 
 
-<a id='help'></a>
-## ❓ Help
-
-
-
 <a id='acknowledgements'></a>
 ## 🙌 Acknowledgements
 * This README is inspired from [@othneildrew](https://github.com/othneildrew)'s [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
